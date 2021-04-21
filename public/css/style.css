@@ -624,6 +624,7 @@ button:active {
     width: 100%;
   }
 }
+
 * {
   box-sizing: border-box;
 }
@@ -680,6 +681,18 @@ body {
   background-color: #72c9ff;
   color: white;
   border-radius: 8px;
+}
+.tombol2 {
+  width: 83px;
+  height: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1em;
+  background-color: #72c9ff;
+  color: white;
+  border-radius: 12px;
 }
 
 .title,
@@ -766,6 +779,9 @@ body {
   height: 37px;
   margin: 5px;
   border: 1px solid #0094ef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #kategoriArtikel {
@@ -848,3 +864,122 @@ body {
   font-weight: 400;
 }
 /* Akhir CSS BLOG */
+
+/* Awal CSS Pembelajaran */
+#menu-kedua a {
+  color: white;
+}
+.navbar-nav .tombol2 {
+  border: 1px solid #1d79b2;
+  border-radius: 12px;
+}
+.navbar-nav .tombol2:hover {
+  border: 1px solid white;
+  color: black;
+}
+
+.jumbotron {
+  background-color: #0094ef;
+  color: white;
+  height: 100vh;
+  margin: 0;
+}
+.jumbotron .display-4 {
+  font-size: 2.3em;
+  font-weight: 800;
+}
+.jumbotron p {
+  font-size: 1em;
+  font-weight: 400;
+}
+
+#blog2 {
+  padding-top: 100px;
+}
+#blog2 .blogBawah {
+  padding: 30px;
+}
+#blog2 .blogAtas .card,
+#blog2 .blogBawah .card {
+  border: none;
+  background: transparent;
+}
+#blog2 .blogAtas .card .gambar,
+#blog2 .blogBawah .card .gambar {
+  border-radius: 21px;
+  background-color: #f1f1f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+#blog2 .blogAtas .atasKiri .isiSub {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  margin: 10px 0;
+}
+#blog2 .blogAtas .atasKanan .row,
+#blog2 .blogAtas .atasKanan .col,
+#blog2 .blogBawah .row {
+  margin: 5px;
+}
+#blog2 .blogAtas .atasKanan .title,
+#blog2 .blogBawah .title {
+  font-size: 1.1em;
+  line-height: 22px;
+}
+#blog2 .blogAtas .atasKanan .date,
+#blog2 .blogBawah .date {
+  font-size: 0.7em;
+}
+#blog2 .blogBawah .pagination {
+  display: flex;
+  justify-content: center;
+}
+#blog2 .blogBawah .pagination .page-link {
+  border-radius: 50%;
+  width: 37px;
+  height: 37px;
+  margin: 5px;
+  border: 1px solid #0094ef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#kategoriPembelajaran {
+  margin: 50px 0;
+}
+#kategoriPembelajaran .row {
+  margin: 10px 10px;
+}
+#kategoriPembelajaran .col-lg-4 {
+  padding: 3px;
+}
+#kategoriPembelajaran a {
+  background-color: #fff;
+  color: #545454;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 10px;
+}
+#kategoriPembelajaran a img {
+  background-color: cyan;
+  border-radius: 50%;
+}
+#kategoriPembelajaran a:hover {
+  background-color: rgba(188, 229, 255, 0.9);
+}
+#kategoriPembelajaran h1 {
+  text-align: center;
+  font-size: 2em;
+  font-weight: 800;
+}
+
+/* Akhir CSS Pembelajaran */

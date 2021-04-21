@@ -22,7 +22,7 @@
 
 <body>
     <!-- Navbar -->
-    <?= $this->include('/templates/layout/navbar'); ?>
+    <?= $this->include('/templates/layout/navbar2'); ?>
     <!-- Akhir Navbar -->
 
     <!-- Jumbotron -->
