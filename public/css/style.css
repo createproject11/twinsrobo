@@ -571,6 +571,17 @@ button:active {
   font-size: 16px;
 }
 
+.aktif {
+  background-color: transparent;
+  font-weight: bold;
+}
+.aktif::after {
+  content: "";
+  display: block;
+  width: inherit;
+  height: 3px;
+  background-color: #72c9ff;
+}
 .active {
   background-color: #0f25d5;
 }
