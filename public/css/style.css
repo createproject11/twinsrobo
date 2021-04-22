@@ -970,6 +970,9 @@ body {
 #kategoriPembelajaran {
   margin: 50px 0;
 }
+#kategoriPembelajaran h1 {
+  margin: 50px;
+}
 #kategoriPembelajaran .row {
   margin: 10px 10px;
 }
@@ -991,6 +994,8 @@ body {
 #kategoriPembelajaran a img {
   background-color: cyan;
   border-radius: 50%;
+  width: 97px;
+  height: 97px;
 }
 #kategoriPembelajaran a:hover {
   background-color: rgba(188, 229, 255, 0.9);
