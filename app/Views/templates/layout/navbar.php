@@ -13,8 +13,8 @@
                 <a class="nav-link" href="#">Fitur <span class="sr-only">(current)</span></a>
                 <a class="nav-link" href="#">Tentang Kami</a>
                 <a class="nav-link" href="#">Karir</a>
-                <a class="nav-link" href="#">Pembelajaran</a>
-                <a class="nav-link aktif" href="#">Blog</a>
+                <a class="nav-link" href="/Pembelajaran">Pembelajaran</a>
+                <a class="nav-link aktif" href="/Blog">Blog</a>
                 <a class="nav-link" href="#">Bantuan</a>
                 <a class="btn tombol" href="#">Login</a>
             </div>
