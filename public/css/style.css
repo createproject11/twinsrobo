@@ -663,6 +663,10 @@ body {
   padding: 0;
 }
 
+.bg-primary2 {
+  background-color: #72c9ff;
+}
+
 .btn-primary {
   color: white;
   background-color: #1d79b2;
@@ -879,7 +883,7 @@ body {
 }
 
 .jumbotron {
-  background-color: #0094ef;
+  background-color: #72c9ff;
   color: white;
   height: 100vh;
   margin: 0;
@@ -891,6 +895,21 @@ body {
 .jumbotron p {
   font-size: 1em;
   font-weight: 400;
+}
+.jumbotron .container .row {
+  margin-top: 70px;
+}
+.jumbotron form {
+  position: relative;
+  z-index: 9;
+}
+.jumbotron input {
+  background-color: transparent;
+  border: 1px solid #176da2;
+  width: 400px;
+}
+.jumbotron .animasi {
+  width: 50%;
 }
 
 #blog2 {

@@ -1,4 +1,4 @@
-<nav id="menu-kedua" class="navbar navbar-expand-lg navbar-light bg-transparent fixed-top">
+<nav id="menu-kedua" class="navbar navbar-expand-lg navbar-light bg-primary2 fixed-top">
     <div class="container px-lg-5">
         <div class="brand">
             <img src="/img/Logo Apps Twins Robo.png" alt="" />

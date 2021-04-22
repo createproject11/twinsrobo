@@ -1,4 +1,26 @@
 @media only screen and (max-width: 1024px) {
+  .jumbotron {
+    background-color: #72c9ff;
+    color: white;
+    height: calc(100vh - 10%);
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width: 911px) {
+  .jumbotron .container .row {
+    flex-direction: column-reverse;
+  }
+}
+
+@media only screen and (max-width: 812px) {
+  /* Awal CSS Pembelajaran */
+  .jumbotron input {
+    background-color: transparent;
+    border: 1px solid #176da2;
+    width: 200px;
+  }
+  /* Akhir CSS Pembelajaran */
 }
 
 @media only screen and (max-width: 768px) {
