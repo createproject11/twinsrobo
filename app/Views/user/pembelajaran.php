@@ -66,7 +66,7 @@
                 <!-- Awal atasKanan -->
                 <div class="atasKanan col-lg-6">
                     <div class="row">
-                        <div class="col-lg-6">
+                        <div class="col-lg-6 col-md-6">
                             <div class="card">
                                 <div class="gambar">
                                     <img src="/img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
@@ -77,7 +77,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-6 col-md-6">
                             <div class="card">
                                 <div class="gambar">
                                     <img src="/img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
@@ -90,7 +90,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-lg-6">
+                        <div class="col-lg-6 col-md-6">
                             <div class="card">
                                 <div class="gambar">
                                     <img src="/img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
@@ -101,7 +101,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-6 col-md-6">
                             <div class="card">
                                 <div class="gambar">
                                     <img src="/img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
