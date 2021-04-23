@@ -108,4 +108,11 @@
   #footer .row-ketentuan .foot-ul {
     flex-direction: column;
   }
+
+  /* Awal CSS Kategori Pembelajaran */
+  #kategoriPembelajaran h1 {
+    font-size: 2em;
+    margin: 0 0 50px 0;
+  }
+  /* Akhir CSS Kategori Pembelajaran */
 }
