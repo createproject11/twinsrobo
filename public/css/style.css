@@ -661,6 +661,7 @@ body {
   color: #545454;
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 
 .bg-primary2 {
@@ -744,14 +745,19 @@ body {
   border: none;
   background: transparent;
 }
-#blog .blogAtas .card .gambar,
-#blog .blogBawah .card .gambar {
+.gambar {
   border-radius: 21px;
   background-color: #f1f1f1;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 5px;
+  overflow: hidden;
+}
+#blog .blogAtas .card .gambar {
+}
+#blog .blogBawah .card .gambar {
+  height: 199px;
 }
 #blog .blogAtas .atasKiri .isiSub {
   display: flex;
