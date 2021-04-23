@@ -916,6 +916,10 @@ body {
 }
 .jumbotron .animasi {
   width: 50%;
+  overflow: hidden;
+}
+.jumbotron .animasi lottie-player {
+  transform: scale(1.9);
 }
 
 #blog2 {

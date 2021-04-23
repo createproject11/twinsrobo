@@ -24,7 +24,7 @@
 
             </div>
             <div class="col-lg-4 animasi">
-                <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_n5icqxkw.json" background="transparent" speed="1" style="width: 100%; height:auto;" loop autoplay></lottie-player>
+                <lottie-player src="https://assets8.lottiefiles.com/private_files/lf30_nIhxTu.json" background="transparent" speed="1" style="width: 100%;" loop autoplay></lottie-player>
             </div>
         </div>
         <!-- Akhir Row -->
