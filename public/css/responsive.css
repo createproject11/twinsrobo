@@ -20,6 +20,10 @@
     border: 1px solid #176da2;
     width: 200px;
   }
+
+  #footer .foot-ul {
+    justify-content: space-around;
+  }
   /* Akhir CSS Pembelajaran */
 }
 
@@ -33,6 +37,17 @@
     text-align: center;
   }
 
+  #footer .ft-menu {
+    width: 50%;
+  }
+  #footer .ft-menu:last-child {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
   /* Akhir CSS BLOG */
 }
 
@@ -43,17 +58,6 @@
   }
   #pencarian .form-inline input {
     margin-right: 10px;
-  }
-
-  #footer .ft-menu {
-    width: 50%;
-  }
-  #footer .ft-menu:last-child {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
   }
 
   /* Akhir CSS BLOG */

@@ -224,8 +224,13 @@
       <!-- Awal Pagination -->
       <ul class="pagination">
         <li class="page-item">
+          <a class="page-link" href="#" aria-label="First">
+            <span aria-hidden="true"> <img src="img/next.png" alt="" style="transform: rotate(180deg) scale(.6)"> </span>
+          </a>
+        </li>
+        <li class="page-item">
           <a class="page-link" href="#" aria-label="Previous">
-            <span aria-hidden="true">&laquo;</span>
+            <span aria-hidden="true"> <i class="bi bi-arrow-left"></i> </span>
           </a>
         </li>
         <li class="page-item"><a class="page-link" href="#">1</a></li>
@@ -236,8 +241,12 @@
             <span aria-hidden="true">&raquo;</span>
           </a>
         </li>
+        <li class="page-item">
+          <a class="page-link" href="#" aria-label="Last">
+            <span aria-hidden="true"> <img src="img/next.png" alt="" style="transform: scale(.6);"> </span>
+          </a>
+        </li>
       </ul>
-      </nav>
       <!-- Akhir Pagination -->
     </div>
   </div>

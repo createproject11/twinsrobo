@@ -78,7 +78,7 @@
             </div>
 
             <div class="col-lg-9 mt-3">
-                <ul class="list-unstyled d-flex" style="gap: 20px;">
+                <ul class="list-unstyled d-flex foot-ul" style="gap: 20px;">
                     <li><a href="">Kebijakan Privasi</a></li>
                     <li><a href="">Syarat dan Ketentuan</a></li>
                     <li><a href="">Atribusi Data</a></li>
