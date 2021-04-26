@@ -238,7 +238,7 @@
         <li class="page-item"><a class="page-link" href="#">3</a></li>
         <li class="page-item">
           <a class="page-link" href="#" aria-label="Next">
-            <span aria-hidden="true">&raquo;</span>
+            <span aria-hidden="true"> <i class="bi bi-arrow-right"></i> </span>
           </a>
         </li>
         <li class="page-item">

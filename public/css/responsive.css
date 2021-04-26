@@ -33,6 +33,11 @@
     margin-right: 10px;
   }
 
+  #blog .blogBawah .pagination .page-link {
+    width: 14px;
+    height: 27px;
+  }
+
   #labelBlog .linkLabel {
     text-align: center;
   }
