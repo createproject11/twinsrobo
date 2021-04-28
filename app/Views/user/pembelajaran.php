@@ -47,11 +47,11 @@
                 <div class="atasKiri col-lg-6">
                     <div class="card">
                         <div class="gambar">
-                            <img src="/img/dashboard.png" class="card-img-top" alt="" style="width: 100%;" />
+                            <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 100%;" />
                         </div>
                         <div class="card-body">
                             <div class="isiSub">
-                                <img src="/img/Logo Apps Twins Robo.png" alt="" />
+                                <img src="img/Logo Apps Twins Robo.png" alt="" />
                                 <h4 class="sub-title">Twins Robo App</h4>
                             </div>
                             <h2 class="title">
@@ -69,7 +69,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="card">
                                 <div class="gambar">
-                                    <img src="/img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+                                    <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
                                 </div>
                                 <div class="card-body">
                                     <h2 class="title">Pengenalan pemrograman aplikasi android</h2>
@@ -80,7 +80,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="card">
                                 <div class="gambar">
-                                    <img src="/img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+                                    <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
                                 </div>
                                 <div class="card-body">
                                     <h2 class="title">Pengenalan Pemrogramman arduino untuk IOT</h2>
@@ -93,7 +93,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="card">
                                 <div class="gambar">
-                                    <img src="/img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+                                    <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
                                 </div>
                                 <div class="card-body">
                                     <h2 class="title">Lorem ipsum dolor sit amet.</h2>
@@ -104,7 +104,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="card">
                                 <div class="gambar">
-                                    <img src="/img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+                                    <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
                                 </div>
                                 <div class="card-body">
                                     <h2 class="title">Lorem ipsum dolor sit amet.</h2>
@@ -131,37 +131,37 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <a href="" class="h-100">
-                        <img src="../img/kategori1.png" alt="" />
+                        <img src="img/kategori1.png" alt="" />
                         <p>Pemrograman Robot</p>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <a href="" class="h-100">
-                        <img src="../img/kategori5.png" class="bg-primary" alt="" />
+                        <img src="img/kategori5.png" class="bg-primary" alt="" />
                         <p>Merakit Robot</p>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <a href="" class="h-100">
-                        <img src="../img/kategori6.png" class="bg-danger" alt="" />
+                        <img src="img/kategori6.png" class="bg-danger" alt="" />
                         <p>Pemrograman Arduino</p>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <a href="" class="h-100">
-                        <img src="../img/kategori7.png" class="bg-primary" alt="" />
+                        <img src="img/kategori7.png" class="bg-primary" alt="" />
                         <p>Pembelajaran Internet of Things</p>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <a href="" class="h-100">
-                        <img src="../img/kategori8.png" class="bg-primary" alt="" />
+                        <img src="img/kategori8.png" class="bg-primary" alt="" />
                         <p>Pengenalan Elektronika</p>
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <a href="" class="h-100">
-                        <img src="../img/kategori9.png" class="bg-primary" alt="" />
+                        <img src="img/kategori9.png" class="bg-primary" alt="" />
                         <p>Pemrograman Android</p>
                     </a>
                 </div>

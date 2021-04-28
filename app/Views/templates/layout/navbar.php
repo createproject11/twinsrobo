@@ -1,7 +1,7 @@
 <nav id="menu-utama" class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
     <div class="container px-lg-5">
         <div class="brand">
-            <img src="/img/Logo Apps Twins Robo.png" alt="" />
+            <img src="img/Logo Apps Twins Robo.png" alt="" />
             <a class="navbar-brand" href="#">Twins Robo App</a>
         </div>
 

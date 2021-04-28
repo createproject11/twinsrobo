@@ -21,7 +21,7 @@
                 <ul class="list-unstyled">
                     <li><a href="">Tentang</a></li>
                     <li><a href="">Blog</a></li>
-                    <li><a href="">Pembelajaran</a></li>
+                    <li><a href="/Pembelajaran">Pembelajaran</a></li>
                 </ul>
             </div>
 
