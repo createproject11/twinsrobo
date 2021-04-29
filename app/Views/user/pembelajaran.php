@@ -42,6 +42,7 @@
     <!--Awal Blog Bagian Atas -->
     <div class="blogAtas">
         <div class="container">
+            <h2 class="title">Top 5 Course</h2>
             <div class="row">
                 <!-- Awal atasKiri -->
                 <div class="atasKiri col-lg-6">
@@ -54,10 +55,46 @@
                                 <img src="img/Logo Apps Twins Robo.png" alt="" />
                                 <h4 class="sub-title">Twins Robo App</h4>
                             </div>
-                            <h2 class="title">
-                                Pengenalan robot line maze dan coding robot
-                            </h2>
-                            <p class="date">Twins Robo / 3 Maret 2021</p>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h2 class="title">
+                                        Pemrogramman Robot Dasar
+                                    </h2>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <p class="diskon">Rp 355,000</p>
+                                </div>
+                                <div class="col-sm-4">
+                                    <p class="setelahDiskon">Rp 123,321</p>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="rating">
+                                        <div class="stars">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <span>(35)</span>
+                                        </div>
+                                        <i class="bar bi bi-bar-chart-fill"></i>
+                                    </div>
+                                </div>
+                                <hr style="height:1px; width: 100%; color:aqua;">
+                            </div>
+
+                            <form>
+                                <div class="form-check">
+                                    <input type="checkbox" class="form-check-input" id=centang>
+                                    <label form-check-label for="centang">Bayar Sekali Akses Selamanya</label>
+                                </div>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -72,8 +109,39 @@
                                     <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
                                 </div>
                                 <div class="card-body">
-                                    <h2 class="title">Pengenalan pemrograman aplikasi android</h2>
-                                    <p class="date">Twins Robo / 3 Maret 2021</p>
+                                    <h2 class="title">Pemrogramman Arduino Dasar</h2>
+                                    <div class="row" style="font-size: .6em;">
+                                        <div class="col-sm-6">
+                                            <p class="diskon">Rp 355,000</p>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="setelahDiskon">Rp 123,321</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row" style="font-size: .9em;">
+                                        <div class="col-sm-12">
+                                            <div class="rating">
+                                                <div class="stars">
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <span>(35)</span>
+                                                </div>
+                                                <i class="bar bi bi-bar-chart-fill"></i>
+                                            </div>
+                                        </div>
+                                        <hr style="height:1px; width: 100%; color:aqua;">
+                                    </div>
+
+                                    <form>
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" id=centang>
+                                            <label form-check-label for="centang">Bayar Sekali Akses Selamanya</label>
+                                        </div>
+                                    </form>
                                 </div>
                             </div>
                         </div>
@@ -83,12 +151,44 @@
                                     <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
                                 </div>
                                 <div class="card-body">
-                                    <h2 class="title">Pengenalan Pemrogramman arduino untuk IOT</h2>
-                                    <p class="date">Twins Robo / 3 Maret 2021</p>
+                                    <h2 class="title">Pemrogramman IoT Dasar</h2>
+                                    <div class="row" style="font-size: .6em;">
+                                        <div class=" col-sm-6">
+                                            <p class="diskon">Rp 355,000</p>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="setelahDiskon">Rp 123,321</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row" style="font-size: .9em;">
+                                        <div class="col-sm-12">
+                                            <div class="rating">
+                                                <div class="stars">
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <span>(35)</span>
+                                                </div>
+                                                <i class="bar bi bi-bar-chart-fill"></i>
+                                            </div>
+                                        </div>
+                                        <hr style="height:1px; width: 100%; color:aqua;">
+                                    </div>
+
+                                    <form>
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" id=centang>
+                                            <label form-check-label for="centang">Bayar Sekali Akses Selamanya</label>
+                                        </div>
+                                    </form>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="row">
                         <div class="col-lg-6 col-md-6">
                             <div class="card">
@@ -96,8 +196,39 @@
                                     <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
                                 </div>
                                 <div class="card-body">
-                                    <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-                                    <p class="date">Twins Robo / 3 Maret 2021</p>
+                                    <h2 class="title">Merancang IoT Dasar</h2>
+                                    <div class="row" style="font-size: .6em;">
+                                        <div class="col-sm-6">
+                                            <p class="diskon">Rp 355,000</p>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="setelahDiskon">Rp 123,321</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row" style="font-size: .9em;">
+                                        <div class="col-sm-12">
+                                            <div class="rating">
+                                                <div class="stars">
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <span>(35)</span>
+                                                </div>
+                                                <i class="bar bi bi-bar-chart-fill"></i>
+                                            </div>
+                                        </div>
+                                        <hr style="height:1px; width: 100%; color:aqua;">
+                                    </div>
+
+                                    <form>
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" id=centang>
+                                            <label form-check-label for="centang">Bayar Sekali Akses Selamanya</label>
+                                        </div>
+                                    </form>
                                 </div>
                             </div>
                         </div>
@@ -107,12 +238,44 @@
                                     <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
                                 </div>
                                 <div class="card-body">
-                                    <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-                                    <p class="date">Twins Robo / 3 Maret 2021</p>
+                                    <h2 class="title">Pengenalan Elektronika Dasar</h2>
+                                    <div class="row" style="font-size: .6em;">
+                                        <div class="col-sm-6">
+                                            <p class="diskon">Rp 355,000</p>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="setelahDiskon">Rp 123,321</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row" style="font-size: .9em;">
+                                        <div class="col-sm-12">
+                                            <div class="rating">
+                                                <div class="stars">
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <i class="fas fa-star"></i>
+                                                    <span>(35)</span>
+                                                </div>
+                                                <i class="bar bi bi-bar-chart-fill"></i>
+                                            </div>
+                                        </div>
+                                        <hr style="height:1px; width: 100%; color:aqua;">
+                                    </div>
+
+                                    <form>
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" id=centang>
+                                            <label form-check-label for="centang">Bayar Sekali Akses Selamanya</label>
+                                        </div>
+                                    </form>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                 </div>
                 <!-- Akhir atasKanan -->
             </div>

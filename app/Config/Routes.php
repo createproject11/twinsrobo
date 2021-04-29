@@ -49,6 +49,7 @@ $routes->get('/add_siswa', 'Siswa::add');
 //Users
 $routes->get('/Blog', 'Blog::blog');
 $routes->get('/Pembelajaran', 'Pembelajaran::pembelajaran');
+$routes->get('/IsiPembelajaran', 'IsiPembelajaran::isiPembelajaran');
 
 
 /*

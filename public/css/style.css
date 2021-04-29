@@ -719,6 +719,11 @@ body {
   font-weight: 500;
   line-height: 20px;
 }
+.diskon {
+  text-decoration: line-through;
+  color: red;
+  font-weight: 500;
+}
 
 /* CSS BLOG */
 #pencarian {
@@ -948,6 +953,20 @@ body {
   gap: 1em;
   margin: 10px 0;
 }
+#blog2 .blogAtas .atasKiri .rating,
+#blog2 .blogAtas .atasKanan .rating {
+  display: flex;
+  justify-content: space-between;
+}
+#blog2 .blogAtas .atasKiri .rating .stars i,
+#blog2 .blogAtas .atasKanan .rating .stars i {
+  color: gold;
+}
+#blog2 .blogAtas .atasKiri .rating .bar,
+#blog2 .blogAtas .atasKanan .rating .bar {
+  color: #58bfff;
+}
+
 #blog2 .blogAtas .atasKanan .row,
 #blog2 .blogAtas .atasKanan .col,
 #blog2 .blogBawah .row {
