@@ -1059,4 +1059,43 @@ body {
   line-height: 15px;
   margin: 5px;
 }
+.materiPembelajaran .tombol.active {
+  background-color: #1d79b2;
+  font-weight: 700;
+}
 /* Akhir CSS Isi Pembelajaran */
+
+/* Awal CSS Isi Pembelajaran2 */
+.Pembelajaran2 {
+  margin-top: 78px;
+}
+
+.Pembelajaran2 .isiPembelajaran2 .mP2-menu .tombol {
+  display: inline-block;
+  padding: 0;
+  text-align: center;
+  line-height: 25px;
+  width: 120px;
+  border-radius: 20px;
+  color: #1d79b2;
+  font-weight: 800;
+}
+.Pembelajaran2 .isiPembelajaran2 .mP2-menu .tombol.active {
+  color: white;
+  background-color: #1d79b2;
+}
+.Pembelajaran2 .isiPembelajaran2 .keteranganPembelajaran {
+  text-align: justify;
+}
+.Pembelajaran2 .isiPembelajaran2 .pengajar .card {
+  background-color: #bce5ff;
+  border: none;
+  border-radius: 8px;
+}
+.Pembelajaran2 .isiPembelajaran2 .pengajar .card .tombol {
+  width: 100%;
+  border-radius: 16px;
+  background-color: #1d79b2;
+}
+
+/* Akhir CSS Isi Pembelajaran2 */

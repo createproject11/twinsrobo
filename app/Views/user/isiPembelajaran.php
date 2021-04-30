@@ -46,7 +46,7 @@
             </div>
 
             <div class="col-sm-12 mP-menu">
-                <a class="btn tombol" href="">Featured</a>
+                <a class="btn tombol active" href="">Featured</a>
                 <a class="btn tombol" href="">Started</a>
                 <a class="btn tombol" href="">Freemium</a>
                 <a class="btn tombol" href="">Premium</a>

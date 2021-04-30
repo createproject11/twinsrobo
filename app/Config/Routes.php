@@ -50,6 +50,7 @@ $routes->get('/add_siswa', 'Siswa::add');
 $routes->get('/Blog', 'Blog::blog');
 $routes->get('/Pembelajaran', 'Pembelajaran::pembelajaran');
 $routes->get('/IsiPembelajaran', 'IsiPembelajaran::isiPembelajaran');
+$routes->get('/IsiPembelajaran2', 'IsiPembelajaran2::isiPembelajaran2');
 
 
 /*
