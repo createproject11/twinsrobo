@@ -91,7 +91,7 @@
 
                             <form>
                                 <div class="form-check">
-                                    <input type="checkbox" class="form-check-input" id=centang>
+                                    <input type="checkbox" class="form-check-input" id="centang">
                                     <label form-check-label for="centang">Bayar Sekali Akses Selamanya</label>
                                 </div>
                             </form>
@@ -110,13 +110,13 @@
                                 </div>
                                 <div class="card-body">
                                     <h2 class="title">Pemrogramman Arduino Dasar</h2>
-                                    <div class="row" style="font-size: .6em;">
-                                        <div class="col-sm-6">
-                                            <p class="diskon">Rp 355,000</p>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <p class="setelahDiskon">Rp 123,321</p>
-                                        </div>
+                                    <div class="row d-flex" style="font-size: .6em;">
+                                        <!-- <div class="col-sm-6"> -->
+                                        <p class="diskon">Rp 355,000</p>
+                                        <!-- </div> -->
+                                        <!-- <div class="col-sm-6"> -->
+                                        <p class="setelahDiskon">Rp 123,321</p>
+                                        <!-- </div> -->
                                     </div>
 
                                     <div class="row" style="font-size: .9em;">
@@ -138,8 +138,8 @@
 
                                     <form>
                                         <div class="form-check">
-                                            <input type="checkbox" class="form-check-input" id=centang>
-                                            <label form-check-label for="centang">Bayar Sekali Akses Selamanya</label>
+                                            <input type="checkbox" class="form-check-input" id="centang2">
+                                            <label form-check-label for="centang2">Bayar Sekali Akses Selamanya</label>
                                         </div>
                                     </form>
                                 </div>
@@ -152,13 +152,13 @@
                                 </div>
                                 <div class="card-body">
                                     <h2 class="title">Pemrogramman IoT Dasar</h2>
-                                    <div class="row" style="font-size: .6em;">
-                                        <div class=" col-sm-6">
-                                            <p class="diskon">Rp 355,000</p>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <p class="setelahDiskon">Rp 123,321</p>
-                                        </div>
+                                    <div class="row d-flex" style="font-size: .6em;">
+                                        <!-- <div class=" col-sm-6"> -->
+                                        <p class="diskon">Rp 355,000</p>
+                                        <!-- </div> -->
+                                        <!-- <div class="col-sm-6"> -->
+                                        <p class="setelahDiskon">Rp 123,321</p>
+                                        <!-- </div> -->
                                     </div>
 
                                     <div class="row" style="font-size: .9em;">
@@ -180,8 +180,8 @@
 
                                     <form>
                                         <div class="form-check">
-                                            <input type="checkbox" class="form-check-input" id=centang>
-                                            <label form-check-label for="centang">Bayar Sekali Akses Selamanya</label>
+                                            <input type="checkbox" class="form-check-input" id="centang3">
+                                            <label form-check-label for="centang3">Bayar Sekali Akses Selamanya</label>
                                         </div>
                                     </form>
                                 </div>
@@ -197,13 +197,13 @@
                                 </div>
                                 <div class="card-body">
                                     <h2 class="title">Merancang IoT Dasar</h2>
-                                    <div class="row" style="font-size: .6em;">
-                                        <div class="col-sm-6">
-                                            <p class="diskon">Rp 355,000</p>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <p class="setelahDiskon">Rp 123,321</p>
-                                        </div>
+                                    <div class="row d-flex" style="font-size: .6em;">
+                                        <!-- <div class="col-sm-6"> -->
+                                        <p class="diskon">Rp 355,000</p>
+                                        <!-- </div> -->
+                                        <!-- <div class="col-sm-6"> -->
+                                        <p class="setelahDiskon">Rp 123,321</p>
+                                        <!-- </div> -->
                                     </div>
 
                                     <div class="row" style="font-size: .9em;">
@@ -225,8 +225,8 @@
 
                                     <form>
                                         <div class="form-check">
-                                            <input type="checkbox" class="form-check-input" id=centang>
-                                            <label form-check-label for="centang">Bayar Sekali Akses Selamanya</label>
+                                            <input type="checkbox" class="form-check-input" id="centang4">
+                                            <label form-check-label for="centang4">Bayar Sekali Akses Selamanya</label>
                                         </div>
                                     </form>
                                 </div>
@@ -240,12 +240,12 @@
                                 <div class="card-body">
                                     <h2 class="title">Pengenalan Elektronika Dasar</h2>
                                     <div class="row" style="font-size: .6em;">
-                                        <div class="col-sm-6">
-                                            <p class="diskon">Rp 355,000</p>
-                                        </div>
-                                        <div class="col-sm-6">
-                                            <p class="setelahDiskon">Rp 123,321</p>
-                                        </div>
+                                        <!-- <div class="col-sm-6"> -->
+                                        <p class="diskon">Rp 355,000</p>
+                                        <!-- </div> -->
+                                        <!-- <div class="col-sm-6"> -->
+                                        <p class="setelahDiskon">Rp 123,321</p>
+                                        <!-- </div> -->
                                     </div>
 
                                     <div class="row" style="font-size: .9em;">
@@ -267,8 +267,8 @@
 
                                     <form>
                                         <div class="form-check">
-                                            <input type="checkbox" class="form-check-input" id=centang>
-                                            <label form-check-label for="centang">Bayar Sekali Akses Selamanya</label>
+                                            <input type="checkbox" class="form-check-input" id="centang5">
+                                            <label form-check-label for="centang5">Bayar Sekali Akses Selamanya</label>
                                         </div>
                                     </form>
                                 </div>
