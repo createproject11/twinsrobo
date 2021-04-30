@@ -1070,7 +1070,7 @@ body {
   margin-top: 78px;
 }
 
-.Pembelajaran2 .isiPembelajaran2 .mP2-menu .tombol {
+.isiPembelajaran2 .mP2-menu .tombol {
   display: inline-block;
   padding: 0;
   text-align: center;
@@ -1080,22 +1080,30 @@ body {
   color: #1d79b2;
   font-weight: 800;
 }
-.Pembelajaran2 .isiPembelajaran2 .mP2-menu .tombol.active {
+.isiPembelajaran2 .title {
+  color: #1d79b2;
+}
+.isiPembelajaran2 .mP2-menu .tombol.active {
   color: white;
   background-color: #1d79b2;
 }
-.Pembelajaran2 .isiPembelajaran2 .keteranganPembelajaran {
+.isiPembelajaran2 .keteranganPembelajaran {
   text-align: justify;
 }
-.Pembelajaran2 .isiPembelajaran2 .pengajar .card {
+.isiPembelajaran2 .pengajar .card {
   background-color: #bce5ff;
   border: none;
   border-radius: 8px;
 }
-.Pembelajaran2 .isiPembelajaran2 .pengajar .card .tombol {
+.isiPembelajaran2 .pengajar .card .tombol {
   width: 100%;
   border-radius: 16px;
   background-color: #1d79b2;
+}
+
+.isiPembelajaran2 .sisiKanan .title {
+  color: white;
+  font-size: 1em;
 }
 
 /* Akhir CSS Isi Pembelajaran2 */
