@@ -42,7 +42,7 @@
     <!--Awal Blog Bagian Atas -->
     <div class="blogAtas">
         <div class="container">
-            <h2 class="title">Top 5 Course</h2>
+            <h2 class="title mb-5">Top 5 Course</h2>
             <div class="row">
                 <!-- Awal atasKiri -->
                 <div class="atasKiri col-lg-6">
@@ -139,7 +139,7 @@
                                     <form>
                                         <div class="form-check">
                                             <input type="checkbox" class="form-check-input" id="centang2">
-                                            <label form-check-label for="centang2">Bayar Sekali Akses Selamanya</label>
+                                            <label form-check-label for="centang2" class="form-atasKanan">Bayar Sekali Akses Selamanya</label>
                                         </div>
                                     </form>
                                 </div>
@@ -181,7 +181,7 @@
                                     <form>
                                         <div class="form-check">
                                             <input type="checkbox" class="form-check-input" id="centang3">
-                                            <label form-check-label for="centang3">Bayar Sekali Akses Selamanya</label>
+                                            <label form-check-label for="centang3" class="form-atasKanan">Bayar Sekali Akses Selamanya</label>
                                         </div>
                                     </form>
                                 </div>
@@ -226,7 +226,7 @@
                                     <form>
                                         <div class="form-check">
                                             <input type="checkbox" class="form-check-input" id="centang4">
-                                            <label form-check-label for="centang4">Bayar Sekali Akses Selamanya</label>
+                                            <label form-check-label for="centang4" class="form-atasKanan">Bayar Sekali Akses Selamanya</label>
                                         </div>
                                     </form>
                                 </div>
@@ -268,7 +268,7 @@
                                     <form>
                                         <div class="form-check">
                                             <input type="checkbox" class="form-check-input" id="centang5">
-                                            <label form-check-label for="centang5">Bayar Sekali Akses Selamanya</label>
+                                            <label form-check-label for="centang5" class="form-atasKanan">Bayar Sekali Akses Selamanya</label>
                                         </div>
                                     </form>
                                 </div>

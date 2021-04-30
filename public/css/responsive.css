@@ -54,6 +54,12 @@
   }
 
   /* Akhir CSS BLOG */
+
+  /* Awal CSS isi Pembelajaran */
+  .mP-menu {
+    text-align: center;
+  }
+  /* Akhir CSS isi Pembelajaran */
 }
 
 @media only screen and (max-width: 540px) {
@@ -69,6 +75,7 @@
 }
 
 @media only screen and (max-width: 375px) {
+  /* Awal CSS BLOG */
   #pencarian h1 {
     font-size: 2em;
   }
@@ -106,6 +113,7 @@
   #labelBlog h1 {
     padding: 15px;
   }
+  /* Akhir CSS BLOG */
 
   #footer .footBrand h1 {
     font-size: 1.4em;
@@ -115,6 +123,11 @@
   }
 
   /* Awal CSS Kategori Pembelajaran */
+  .jumbotron .display-4 {
+    font-size: 1.3em;
+    font-weight: 800;
+  }
+
   #kategoriPembelajaran h1 {
     font-size: 2em;
     margin: 0 0 50px 0;

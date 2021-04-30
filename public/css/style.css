@@ -724,6 +724,16 @@ body {
   color: red;
   font-weight: 500;
 }
+.rating {
+  display: flex;
+  justify-content: space-between;
+}
+.stars i {
+  color: gold;
+}
+.bar {
+  color: #58bfff;
+}
 
 /* CSS BLOG */
 #pencarian {
@@ -930,6 +940,7 @@ body {
 #blog2 {
   padding-top: 100px;
 }
+
 #blog2 .blogBawah {
   padding: 30px;
 }
@@ -966,6 +977,9 @@ body {
 #blog2 .blogAtas .atasKanan .rating .bar {
   color: #58bfff;
 }
+#blog2 .blogAtas .atasKanan .form-atasKanan {
+  font-size: 0.7em;
+}
 
 #blog2 .blogAtas .atasKanan .row,
 #blog2 .blogAtas .atasKanan .col,
@@ -1000,7 +1014,7 @@ body {
   margin: 50px 0;
 }
 #kategoriPembelajaran h1 {
-  margin: 50px;
+  margin-bottom: 50px;
 }
 #kategoriPembelajaran .row {
   margin: 10px 10px;
@@ -1033,5 +1047,16 @@ body {
   font-size: 2em;
   font-weight: 800;
 }
-
 /* Akhir CSS Pembelajaran */
+
+/* Awal CSS Isi Pembelajaran */
+.materiPembelajaran .tombol {
+  width: 100px;
+  border-radius: 21px;
+  height: 30px;
+  font-size: 0.9em;
+  display: inline-block;
+  line-height: 15px;
+  margin: 5px;
+}
+/* Akhir CSS Isi Pembelajaran */
