@@ -29,7 +29,7 @@
 
 <body>
     <!-- Navbar -->
-    <?= $this->include('/templates/layout/navbar'); ?>
+    <?= $this->include('/templates/layout/navbar_landpage'); ?>
     <!-- Akhir Navbar -->
 
     <!-- Jumbotron -->
@@ -43,7 +43,7 @@
     <!-- Akhir Gelombang -->
 
     <!-- Awal Footer -->
-    <?= $this->include('/templates/layout/footer'); ?>
+    <?= $this->include('/templates/layout/footer_landpage'); ?>
     <!-- Akhir Footer -->
 
 

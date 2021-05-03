@@ -1,0 +1,139 @@
+@media only screen and (max-width: 992px) {
+  .top-page .cont-judul {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .top-page .cont-judul p.desc-judul {
+    font-size: 1rem;
+    margin-bottom: 25px;
+  }
+
+  .intro-page a.gabung {
+    margin-top: 20px;
+    width: 30%;
+  }
+
+  .intro-page .cont-konten {
+    margin-top: 30px;
+  }
+
+  .intro-page .cont-konten h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+
+  .intro-page .cont-konten p {
+    font-size: 1.2rem;
+  }
+
+  .grow-page {
+    padding-bottom: 10px;
+  }
+
+  .grow-page .cont-judul {
+    text-align: center;
+  }
+
+  .grow-page .cont-konten {
+    margin-top: 100px;
+  }
+
+  .grow-page .cont-konten .m-card {
+    margin-bottom: 90px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .fitur-page .cont-fitur .isi-fitur {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .fitur-page .cont-fitur .even {
+    flex-direction: column-reverse;
+  }
+
+  .intro-page a.gabung {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 565px) {
+  .grow-page .cont-judul h2 {
+    font-size: 2.6rem;
+  }
+
+  .grow-page .cont-konten {
+    margin-top: 70px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  h2 {
+    font-size: 1.7rem;
+  }
+
+  .fitur-page h2 {
+    font-size: 1.7rem;
+  }
+
+  .fitur-page .cont-fitur {
+    margin-top: 30px;
+  }
+
+  .fitur-page .cont-fitur .m-baris {
+    margin-bottom: 50px;
+    margin-top: 0;
+  }
+
+  .intro-page a.gabung {
+    width: 70%;
+  }
+
+  .grow-page {
+    padding: 60px 0;
+  }
+
+  .grow-page .cont-konten .card a.gabung {
+    width: 100%;
+  }
+
+  .unduh {
+    padding: 180px 0;
+  }
+
+  .unduh .cont-judul h2 {
+    font-size: 2.8rem;
+  }
+
+  .unduh .cont-btn {
+    flex-direction: column;
+  }
+
+  .unduh .cont-btn a {
+    width: 100%;
+    justify-content: center !important;
+    padding: 12px 25px;
+  }
+
+  .unduh .cont-btn a img {
+    width: 20px;
+  }
+
+  .unduh .cont-btn a h5 {
+    font-size: 1.2rem;
+  }
+
+  .unduh .cont-btn a.btn-appstore {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .grow-page .cont-judul h2,
+  .unduh .cont-judul h2 {
+    font-size: 2.1rem;
+  }
+}

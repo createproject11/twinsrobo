@@ -1,0 +1,256 @@
+/* --- Global CSS --- */
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+h2 {
+  font-weight: 800;
+  font-size: 2.2rem;
+}
+/* --- Eng of Global CSS --- */
+
+/* --- Navbar CSS --- */
+nav.landpage {
+  background: #0094ef !important;
+}
+
+nav.landpage.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+/* --- End of Navbar CSS --- */
+
+/* --- Top Page CSS --- */
+.top-page {
+  padding: 50px 0 120px 0;
+}
+
+.top-page img {
+  width: 100%;
+}
+
+.top-page .side-judul {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.top-page h1.judul,
+.top-page p.desc-judul {
+  color: #fff;
+}
+
+.top-page h1.judul {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.top-page p.desc-judul {
+  font-size: 0.8rem;
+}
+
+.top-page a.btn-download {
+  display: inline-block;
+  background: #72c9ff;
+  color: #fff;
+  text-decoration: none;
+  padding: 12px 35px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+/* --- End of Top Page CSS --- */
+
+/* --- Fitur CSS --- */
+.fitur-page {
+  padding-top: 60px;
+}
+
+.fitur-page h2 {
+  font-weight: 800;
+  font-size: 2rem;
+}
+
+.fitur-page p {
+  font-weight: 500;
+  font-size: 0.9rem;
+  margin-bottom: 0;
+}
+
+.fitur-page .cont-fitur .m-baris {
+  margin-top: 60px;
+}
+
+.fitur-page .cont-fitur .img-fitur img {
+  width: 100%;
+}
+
+.fitur-page .cont-fitur .isi-fitur {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.fitur-page .isi-fitur h2 {
+  margin-bottom: 15px;
+}
+/* --- End of Fitur CSS --- */
+
+/* --- Intro CSS --- */
+.intro-page {
+  padding: 60px 0;
+  background: #459dd2;
+  color: #fff;
+  background-position: top;
+}
+
+.intro-page a.gabung {
+  margin-top: 40px;
+  background: #85d1ff;
+  display: inline-block;
+  padding: 10px 50px;
+  font-weight: 500;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 15px;
+}
+
+.intro-page .cont-konten {
+  margin-top: 80px;
+}
+
+.intro-page .cont-konten lottie-player {
+  margin: 0px auto 10px auto;
+}
+
+.intro-page .cont-konten h3 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+/* --- End of Intro CSS --- */
+
+/* --- Grow CSS --- */
+.grow-page {
+  padding: 120px 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.grow-page .cont-judul h2,
+.unduh .cont-judul h2 {
+  font-size: 3.3rem;
+  color: #fff;
+}
+
+.grow-page .cont-konten {
+  margin-top: 170px;
+}
+
+.grow-page .cont-konten .card {
+  background: #1c79b2;
+  position: relative;
+  padding: 60px 15px 60px 15px;
+  border-radius: 80px;
+  color: #fff;
+}
+
+.grow-page .cont-konten .icon {
+  display: inline-block;
+  position: absolute;
+  border-radius: 20px;
+}
+
+.grow-page .cont-konten .icon.id-card {
+  background: #5dc2ff;
+  padding: 5px 20px 15px 20px;
+  top: -40px;
+}
+
+.grow-page .cont-konten .icon.teknisi {
+  background: #463af3;
+  padding: 10px;
+  top: -40px;
+}
+
+.grow-page .cont-konten .icon.gabung {
+  background: #f33a77;
+  padding: 15px 10px;
+  top: -40px;
+}
+
+.grow-page .cont-konten .icon.id-card img {
+  width: 40px;
+}
+
+.grow-page .cont-konten .icon.teknisi img {
+  width: 70px;
+}
+
+.grow-page .cont-konten .icon.gabung img {
+  width: 65px;
+}
+
+.grow-page .cont-konten .card .card-title {
+  margin-bottom: 30px;
+}
+
+.grow-page .cont-konten .card .card-text {
+  margin-bottom: 45px;
+}
+
+.grow-page .cont-konten .card h3 {
+  color: #fff;
+  font-weight: 700;
+}
+
+.grow-page .cont-konten .card a.gabung {
+  background: #5dc2ff;
+  color: #fff;
+  border-radius: 20px;
+  padding: 10px 50px;
+  text-decoration: none;
+}
+/* --- End of Grow CSS --- */
+
+/* --- Unduh CSS --- */
+.unduh {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 240px 0;
+}
+
+.unduh h2 {
+  margin-bottom: 35px;
+}
+
+.unduh .cont-btn a {
+  display: inline-block;
+  background: #fff;
+  text-decoration: none;
+  padding: 10px 25px;
+  border-radius: 25px;
+}
+
+.unduh .cont-btn a img {
+  margin-right: 15px;
+}
+
+.unduh .cont-btn a h5 {
+  margin-bottom: 0;
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: #000;
+}
+
+.unduh .cont-btn a.btn-appstore {
+  margin-right: 30px;
+}
+/* --- End of Unduh CSS --- */
