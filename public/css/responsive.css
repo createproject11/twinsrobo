@@ -20,11 +20,11 @@
     border: 1px solid #176da2;
     width: 200px;
   }
+  /* Akhir CSS Pembelajaran */
 
   #footer .foot-ul {
     justify-content: space-around;
   }
-  /* Akhir CSS Pembelajaran */
 }
 
 @media only screen and (max-width: 768px) {
@@ -41,6 +41,13 @@
   #labelBlog .linkLabel {
     text-align: center;
   }
+  /* Akhir CSS BLOG */
+
+  /* Awal CSS isi Pembelajaran */
+  .mP-menu {
+    text-align: center;
+  }
+  /* Akhir CSS isi Pembelajaran */
 
   #footer .ft-menu {
     width: 50%;
@@ -52,8 +59,6 @@
     justify-content: center;
     align-items: center;
   }
-
-  /* Akhir CSS BLOG */
 }
 
 @media only screen and (max-width: 540px) {
@@ -69,6 +74,7 @@
 }
 
 @media only screen and (max-width: 375px) {
+  /* Awal CSS BLOG */
   #pencarian h1 {
     font-size: 2em;
   }
@@ -106,6 +112,19 @@
   #labelBlog h1 {
     padding: 15px;
   }
+  /* Akhir CSS BLOG */
+
+  /* Awal CSS Kategori Pembelajaran */
+  .jumbotron .display-4 {
+    font-size: 1.3em;
+    font-weight: 800;
+  }
+
+  #kategoriPembelajaran h1 {
+    font-size: 2em;
+    margin: 0 0 50px 0;
+  }
+  /* Akhir CSS Kategori Pembelajaran */
 
   #footer .footBrand h1 {
     font-size: 1.4em;
@@ -113,13 +132,6 @@
   #footer .row-ketentuan .foot-ul {
     flex-direction: column;
   }
-
-  /* Awal CSS Kategori Pembelajaran */
-  #kategoriPembelajaran h1 {
-    font-size: 2em;
-    margin: 0 0 50px 0;
-  }
-  /* Akhir CSS Kategori Pembelajaran */
 }
 
 @media only screen and (max-width: 280px) {

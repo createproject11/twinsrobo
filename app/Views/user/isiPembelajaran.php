@@ -42,22 +42,21 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <h1>Materi Pembelajaran</h1>
+                <h1 class="title mt-4 mb-4">Materi Pembelajaran</h1>
             </div>
 
-            <div class="col-sm-12">
-                <a href="">Featured</a>
-                <a href="">Started</a>
-                <a href="">Freemium</a>
-                <a href="">Premium</a>
+            <div class="col-sm-12 mP-menu">
+                <a class="btn tombol active" href="">Featured</a>
+                <a class="btn tombol" href="">Started</a>
+                <a class="btn tombol" href="">Freemium</a>
+                <a class="btn tombol" href="">Premium</a>
             </div>
         </div>
 
         <div class="row">
-            <div class="col-sm-12">
-                <h3>Top Featured</h3>
-                <p>Kelas yang pilih langsung oleh
-                    kebanyakan member di Twins Robo</p>
+            <div class="col-sm-5">
+                <h3 class="title mt-4">Top Featured</h3>
+                <p>Kelas yang pilih langsung oleh kebanyakan member di Twins Robo</p>
             </div>
         </div>
     </div>
@@ -65,7 +64,7 @@
 <!-- Akhir Materi Pembelajaran -->
 
 <!-- Awal Blog -->
-<div id="blog">
+<div id="blog2">
     <!--Awal Blog Bagian Bawah -->
     <div class="blogBawah">
         <div class="container">
@@ -76,30 +75,123 @@
                             <img src="img/Dashboard.png" class="card-img-top" style="width: fit-content;" alt="" />
                         </div>
                         <div class="card-body">
-                            <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-                            <p class="date">Twins Robo / 3 Maret 2021</p>
+                            <h2 class="title">Pemrogramman Robot Dasar</h2>
+                            <div class="row d-flex" style="font-size: .6em;">
+                                <!-- <div class="col-sm-6"> -->
+                                <p class="diskon">Rp 355,000</p>
+                                <!-- </div> -->
+                                <!-- <div class="col-sm-6"> -->
+                                <p class="setelahDiskon">Rp 123,321</p>
+                                <!-- </div> -->
+                            </div>
+
+                            <div class="row" style="font-size: .9em;">
+                                <div class="col-sm-12">
+                                    <div class="rating">
+                                        <div class="stars">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <span>(35)</span>
+                                        </div>
+                                        <i class="bar bi bi-bar-chart-fill"></i>
+                                    </div>
+                                </div>
+                                <hr style="height:1px; width: 100%; color:aqua;">
+                            </div>
+
+                            <form>
+                                <div class="form-check">
+                                    <input type="checkbox" class="form-check-input" id="centang">
+                                    <label form-check-label for="centang" class="form-atasKanan">Bayar Sekali Akses Selamanya</label>
+                                </div>
+                            </form>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 ">
                     <div class="card">
                         <div class="gambar">
-                            <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+                            <img src="img/Dashboard.png" class="card-img-top" style="width: fit-content;" alt="" />
                         </div>
                         <div class="card-body">
-                            <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-                            <p class="date">Twins Robo / 3 Maret 2021</p>
+                            <h2 class="title">Pemrogramman Robot Dasar</h2>
+                            <div class="row d-flex" style="font-size: .6em;">
+                                <!-- <div class="col-sm-6"> -->
+                                <p class="diskon">Rp 355,000</p>
+                                <!-- </div> -->
+                                <!-- <div class="col-sm-6"> -->
+                                <p class="setelahDiskon">Rp 123,321</p>
+                                <!-- </div> -->
+                            </div>
+
+                            <div class="row" style="font-size: .9em;">
+                                <div class="col-sm-12">
+                                    <div class="rating">
+                                        <div class="stars">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <span>(35)</span>
+                                        </div>
+                                        <i class="bar bi bi-bar-chart-fill"></i>
+                                    </div>
+                                </div>
+                                <hr style="height:1px; width: 100%; color:aqua;">
+                            </div>
+
+                            <form>
+                                <div class="form-check">
+                                    <input type="checkbox" class="form-check-input" id="centang2">
+                                    <label form-check-label for="centang2" class="form-atasKanan">Bayar Sekali Akses Selamanya</label>
+                                </div>
+                            </form>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 ">
                     <div class="card">
                         <div class="gambar">
-                            <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+                            <img src="img/Dashboard.png" class="card-img-top" style="width: fit-content;" alt="" />
                         </div>
                         <div class="card-body">
-                            <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-                            <p class="date">Twins Robo / 3 Maret 2021</p>
+                            <h2 class="title">Pemrogramman Robot Dasar</h2>
+                            <div class="row d-flex" style="font-size: .6em;">
+                                <!-- <div class="col-sm-6"> -->
+                                <p class="diskon">Rp 355,000</p>
+                                <!-- </div> -->
+                                <!-- <div class="col-sm-6"> -->
+                                <p class="setelahDiskon">Rp 123,321</p>
+                                <!-- </div> -->
+                            </div>
+
+                            <div class="row" style="font-size: .9em;">
+                                <div class="col-sm-12">
+                                    <div class="rating">
+                                        <div class="stars">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <span>(35)</span>
+                                        </div>
+                                        <i class="bar bi bi-bar-chart-fill"></i>
+                                    </div>
+                                </div>
+                                <hr style="height:1px; width: 100%; color:aqua;">
+                            </div>
+
+                            <form>
+                                <div class="form-check">
+                                    <input type="checkbox" class="form-check-input" id="centang3">
+                                    <label form-check-label for="centang3" class="form-atasKanan">Bayar Sekali Akses Selamanya</label>
+                                </div>
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -108,6 +200,7 @@
         </div>
     </div>
     <!--Akhir Blog Bagian Bawah -->
+</div>
 </div>
 <!-- Akhir Blog -->
 

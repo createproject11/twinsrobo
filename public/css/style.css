@@ -699,6 +699,11 @@ body {
   color: white;
   border-radius: 12px;
 }
+.tombolLesson {
+  width: 100%;
+  background-color: #bce5ff;
+  border-radius: 18px;
+}
 
 .title,
 .sub-title,
@@ -723,6 +728,16 @@ body {
   text-decoration: line-through;
   color: red;
   font-weight: 500;
+}
+.rating {
+  display: flex;
+  justify-content: space-between;
+}
+.stars i {
+  color: gold;
+}
+.bar {
+  color: #58bfff;
 }
 
 /* CSS BLOG */
@@ -930,6 +945,7 @@ body {
 #blog2 {
   padding-top: 100px;
 }
+
 #blog2 .blogBawah {
   padding: 30px;
 }
@@ -966,6 +982,9 @@ body {
 #blog2 .blogAtas .atasKanan .rating .bar {
   color: #58bfff;
 }
+#blog2 .blogAtas .atasKanan .form-atasKanan {
+  font-size: 0.7em;
+}
 
 #blog2 .blogAtas .atasKanan .row,
 #blog2 .blogAtas .atasKanan .col,
@@ -1000,7 +1019,7 @@ body {
   margin: 50px 0;
 }
 #kategoriPembelajaran h1 {
-  margin: 50px;
+  margin-bottom: 50px;
 }
 #kategoriPembelajaran .row {
   margin: 10px 10px;
@@ -1033,5 +1052,116 @@ body {
   font-size: 2em;
   font-weight: 800;
 }
-
 /* Akhir CSS Pembelajaran */
+
+/* Awal CSS Isi Pembelajaran */
+.materiPembelajaran .tombol {
+  width: 100px;
+  border-radius: 21px;
+  height: 30px;
+  font-size: 0.9em;
+  display: inline-block;
+  line-height: 15px;
+  margin: 5px;
+}
+.materiPembelajaran .tombol.active {
+  background-color: #1d79b2;
+  font-weight: 700;
+}
+/* Akhir CSS Isi Pembelajaran */
+
+/* Awal CSS Isi Pembelajaran2 */
+.Pembelajaran2 {
+  margin-top: 78px;
+}
+
+.isiPembelajaran2 .mP2-menu .tombol {
+  display: inline-block;
+  padding: 0;
+  text-align: center;
+  line-height: 25px;
+  width: 120px;
+  border-radius: 20px;
+  color: #1d79b2;
+  font-weight: 800;
+}
+.isiPembelajaran2 .title {
+  color: #1d79b2;
+}
+.isiPembelajaran2 .mP2-menu .tombol:hover,
+.isiPembelajaran2 .mP2-menu .tombol.active {
+  color: white;
+  background-color: #1d79b2;
+}
+.isiPembelajaran2 .keteranganPembelajaran {
+  text-align: justify;
+  color: #1d79b2;
+  font-weight: 600;
+}
+.isiPembelajaran2 .pengajar .card {
+  background-color: #bce5ff;
+  border: none;
+  border-radius: 8px;
+}
+.isiPembelajaran2 .pengajar .card .tombol {
+  width: 100%;
+  border-radius: 16px;
+  background-color: #1d79b2;
+}
+
+.isiPembelajaran2 .sisiKanan .title {
+  color: white;
+  font-size: 1em;
+}
+.isiPembelajaran2 .sisiKanan .menuVideoPembelajaran {
+  gap: 10px;
+}
+.isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9em;
+  color: #1d79b2;
+  font-weight: 500;
+}
+.isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a:last-child {
+  justify-content: center;
+  font-weight: 700;
+}
+.isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a:hover {
+  background: #48a4dd;
+  color: white;
+}
+.isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a span {
+  font-weight: 300;
+}
+
+/* Akhir CSS Isi Pembelajaran2 */
+
+/* Awal CSS PriceList*/
+.pricelist-judul {
+  margin-top: 90px;
+}
+
+.pricelist-content .card .card-head {
+  margin-top: 40px;
+}
+.pricelist-content .card .title {
+  color: #1d79b2;
+  font-size: 2em;
+}
+.pricelist-content .card .sub-title {
+  font-weight: 500;
+  font-size: 0.9em;
+}
+.pricelist-content .card .card-body p i {
+  color: #a2faf3;
+}
+.pricelist-content .card .card-body p span {
+  color: red;
+}
+.pricelist-content .card .card-body .tombol2 {
+  width: 100%;
+  height: auto;
+  border-radius: 21px;
+}
+/* Akhir CSS PriceList*/
