@@ -6,8 +6,11 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h1 class="title">#SemuaBisaBelajar</h1>
-                <p class="">Akses semua kelas berkualitas tinggi
-                    dengan harga terjangkau di Twins Robo.</p>
+
+            </div>
+            <div class="col-lg-4 offset-lg-4">
+                <p class="text-center">Akses semua kelas berkualitas tinggi dengan harga terjangkau di Twins Robo.
+                </p>
             </div>
         </div>
         <!-- Akhir Row -->

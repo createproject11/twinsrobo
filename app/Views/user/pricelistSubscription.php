@@ -6,7 +6,9 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h1 class="title">#SubscribeToFuture</h1>
-                <p class="">Harga lebih terjangkau namun materi kelas yang didapatkan tetap berkualitas tinggi</p>
+            </div>
+            <div class="col-lg-4 offset-lg-4">
+                <p class="text-center">Harga lebih terjangkau namun materi kelas yang didapatkan tetap berkualitas tinggi</p>
             </div>
         </div>
         <!-- Akhir Row -->
