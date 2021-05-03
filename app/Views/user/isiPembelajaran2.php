@@ -37,7 +37,7 @@
         <div class="row">
             <div class="col-md-12 col-lg-8 sisiKiri">
                 <div class="videoPembelajaran">
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/QHzAk4XBVVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 26px;"></iframe>
+                    <iframe width="100%" height="400px" src="https://www.youtube.com/embed/QHzAk4XBVVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 26px;"></iframe>
                 </div>
 
                 <div class="mP2-menu mt-4">

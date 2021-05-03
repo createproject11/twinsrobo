@@ -1088,12 +1088,15 @@ body {
 .isiPembelajaran2 .title {
   color: #1d79b2;
 }
+.isiPembelajaran2 .mP2-menu .tombol:hover,
 .isiPembelajaran2 .mP2-menu .tombol.active {
   color: white;
   background-color: #1d79b2;
 }
 .isiPembelajaran2 .keteranganPembelajaran {
   text-align: justify;
+  color: #1d79b2;
+  font-weight: 600;
 }
 .isiPembelajaran2 .pengajar .card {
   background-color: #bce5ff;
@@ -1117,9 +1120,48 @@ body {
   display: flex;
   justify-content: space-between;
   font-size: 0.9em;
+  color: #1d79b2;
+  font-weight: 500;
 }
 .isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a:last-child {
   justify-content: center;
+  font-weight: 700;
+}
+.isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a:hover {
+  background: #48a4dd;
+  color: white;
+}
+.isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a span {
+  font-weight: 300;
 }
 
 /* Akhir CSS Isi Pembelajaran2 */
+
+/* Awal CSS PriceList*/
+.pricelist-judul {
+  margin-top: 90px;
+}
+
+.pricelist-content .card .card-head {
+  margin-top: 40px;
+}
+.pricelist-content .card .title {
+  color: #1d79b2;
+  font-size: 2em;
+}
+.pricelist-content .card .sub-title {
+  font-weight: 500;
+  font-size: 0.9em;
+}
+.pricelist-content .card .card-body p i {
+  color: #a2faf3;
+}
+.pricelist-content .card .card-body p span {
+  color: red;
+}
+.pricelist-content .card .card-body .tombol2 {
+  width: 100%;
+  height: auto;
+  border-radius: 21px;
+}
+/* Akhir CSS PriceList*/

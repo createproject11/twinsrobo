@@ -10,10 +10,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav d-flex align-items-center">
-                <a class="nav-link aktif" href="#">Start <span class="sr-only">(current)</span></a>
-                <a class="nav-link" href="#">Kelas</a>
-                <a class="nav-link" href="#">Mentor</a>
-                <a class="nav-link" href="#">Member</a>
+                <a class="nav-link aktif" href="#">Kelas <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#">Biaya Belajar</a>
+                <a class="nav-link" href="#">Comunity</a>
+                <a class="nav-link" href="#">Tips</a>
             </div>
             <div class="navbar-nav ml-auto d-flex align-items-center" style="gap: 5px;">
                 <a class="btn tombol2" href="#">Daftar</a>
