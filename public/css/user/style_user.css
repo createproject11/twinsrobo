@@ -26,7 +26,8 @@ nav.landpage.navbar-dark .navbar-nav .nav-link {
 
 /* --- Top Page CSS --- */
 .top-page {
-  padding: 50px 0 120px 0;
+  height: 100vh;
+  padding: 120px 0 100px 0;
 }
 
 .top-page img {
@@ -254,3 +255,7 @@ nav.landpage.navbar-dark .navbar-nav .nav-link {
   margin-right: 30px;
 }
 /* --- End of Unduh CSS --- */
+
+#footer {
+  padding-top: 40px;
+}
