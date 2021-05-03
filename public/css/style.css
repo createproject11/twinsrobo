@@ -1183,11 +1183,23 @@ body {
 
 /* Akhir CSS Isi Pembelajaran2 */
 
-/* Awal CSS PriceList*/
+/* Awal CSS PriceList & Pricelist Subscription*/
 .pricelist-judul {
   margin-top: 90px;
 }
+.pricelist-judul .title {
+  font-weight: 800;
+  font-size: 2.5em;
+}
 
+.pricelist-content {
+  margin-top: 50px;
+}
+.pricelist-content .card {
+  box-shadow: 0 8px 23px rgba(0, 0, 0, 0.214816);
+  border-radius: 12px;
+  margin-top: 10px;
+}
 .pricelist-content .card .card-head {
   margin-top: 40px;
 }
@@ -1205,9 +1217,11 @@ body {
 .pricelist-content .card .card-body p span {
   color: red;
 }
+.pricelist-content .card .card-body .btn-primary,
 .pricelist-content .card .card-body .tombol2 {
   width: 100%;
   height: auto;
   border-radius: 21px;
+  margin: 5px;
 }
-/* Akhir CSS PriceList*/
+/* Akhir CSS PriceList & Pricelist Subscription*/

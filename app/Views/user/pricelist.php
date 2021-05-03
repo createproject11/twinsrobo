@@ -6,8 +6,11 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h1 class="title">#SemuaBisaBelajar</h1>
-                <p class="">Akses semua kelas berkualitas tinggi
-                    dengan harga terjangkau di Twins Robo.</p>
+
+            </div>
+            <div class="col-lg-4 offset-lg-4">
+                <p class="text-center">Akses semua kelas berkualitas tinggi dengan harga terjangkau di Twins Robo.
+                </p>
             </div>
         </div>
         <!-- Akhir Row -->
@@ -60,7 +63,7 @@
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Sertifikat kelas</p>
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Free update tutorial</p>
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Free akses kelas freemium</p>
-                        <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Bonus Basic Starter Kit Arduino <span>*Bagi yang Mengambil Materi IoT</span></p>
+                        <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Bonus Basic Starter Kit Arduino <span class="font-weight-bold" style="font-size: .9em;">*Bagi yang Mengambil Materi IoT</span></p>
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Bonus Coding Project IoT</p>
                         <a href="#" class="btn tombol2">Katalog Kelas Starter</a>
                     </div>
