@@ -699,6 +699,11 @@ body {
   color: white;
   border-radius: 12px;
 }
+.tombolLesson {
+  width: 100%;
+  background-color: #bce5ff;
+  border-radius: 18px;
+}
 
 .title,
 .sub-title,
@@ -1104,6 +1109,17 @@ body {
 .isiPembelajaran2 .sisiKanan .title {
   color: white;
   font-size: 1em;
+}
+.isiPembelajaran2 .sisiKanan .menuVideoPembelajaran {
+  gap: 10px;
+}
+.isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9em;
+}
+.isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a:last-child {
+  justify-content: center;
 }
 
 /* Akhir CSS Isi Pembelajaran2 */

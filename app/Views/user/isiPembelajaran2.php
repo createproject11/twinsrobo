@@ -35,7 +35,7 @@
 <div class="isiPembelajaran2 mt-5">
     <div class="container">
         <div class="row">
-            <div class="col-sm-8 sisiKiri">
+            <div class="col-md-12 col-lg-8 sisiKiri">
                 <div class="videoPembelajaran">
                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/QHzAk4XBVVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 26px;"></iframe>
                 </div>
@@ -86,16 +86,15 @@
             <!-- Akhir Sisi kiri -->
 
 
-            <div class="col-sm-4 sisiKanan">
-                <div class="rightSidebar" style="width: 100%; background: #1D79B2; border-radius: 26px; padding:10px; position:relative; height: 315px;">
+            <div class="col-md-12 col-lg-4 sisiKanan">
+                <div class="rightSidebar" style="width: 100%; background: #1D79B2; border-radius: 26px; padding:10px; position:relative; padding-bottom: 85px">
                     <h3 class="title">5 lesson (15 Menit)</h3>
 
                     <div class="menuVideoPembelajaran d-flex flex-column">
-                        <a href="">Pengenalan Program Robot</a>
-                        <a href="">Pengenalan Program Robot</a>
-                        <a href="">Pengenalan Program Robot</a>
-                        <a href="">Pengenalan Program Robot</a>
-                        <a href="">5 Video Lainnya</a>
+                        <a class="btn tombolLesson" href=""> <i class="bi bi-play-circle"></i> Pengenalan Program Robot <span>3min</span></a>
+                        <a class="btn tombolLesson" href=""> <i class="bi bi-play-circle"></i> Pengenalan Program Robot <span>3min</span></a>
+                        <a class="btn tombolLesson" href=""> <i class="bi bi-play-circle"></i>Pengenalan Program Robot <span>3min</span></a>
+                        <a class="btn tombolLesson" href=""> <i class="bi bi-lock-fill"></i> 5 Video Lainnya</a>
                     </div>
 
                     <a class="btn tombol" href="" style="position: absolute; bottom:0; left:0; width:100%; border-radius: 0 0 18px 18px; height: 40px">Gabung Kelas</a>
