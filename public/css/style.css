@@ -1159,9 +1159,11 @@ body {
 .pricelist-content .card .card-body p span {
   color: red;
 }
+.pricelist-content .card .card-body .btn-primary,
 .pricelist-content .card .card-body .tombol2 {
   width: 100%;
   height: auto;
   border-radius: 21px;
+  margin: 5px;
 }
 /* Akhir CSS PriceList*/
