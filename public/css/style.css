@@ -1259,9 +1259,16 @@ body {
 .pricelist-content .card .card-head {
   margin-top: 40px;
 }
+.pricelist-content .card .card-head .head-span {
+  color: #1d79b2;
+}
+.pricelist-content .card .card-body .body-span {
+  color: red;
+}
 .pricelist-content .card .title {
   color: #1d79b2;
   font-size: 2em;
+  margin-top: 20px;
 }
 .pricelist-content .card .sub-title {
   font-weight: 500;
@@ -1269,9 +1276,6 @@ body {
 }
 .pricelist-content .card .card-body p i {
   color: #a2faf3;
-}
-.pricelist-content .card .card-body p span {
-  color: red;
 }
 .pricelist-content .card .card-body .btn-primary,
 .pricelist-content .card .card-body .tombol2 {

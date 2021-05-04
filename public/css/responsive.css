@@ -71,6 +71,15 @@
   }
 
   /* Akhir CSS BLOG */
+
+  /* Awal CSS Pricelist & Pricelist Subscription */
+  .pricelist-judul .title {
+    font-size: 1.2em;
+  }
+  .pricelist-judul p {
+    font-size: 0.9em;
+  }
+  /* Akhir CSS Pricelist & Pricelist Subscription */
 }
 
 @media only screen and (max-width: 375px) {
