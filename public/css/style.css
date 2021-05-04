@@ -856,14 +856,17 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 20px;
+  gap: 10px;
   text-decoration: none;
   border-radius: 8px;
   padding: 10px;
+  margin-top: 10px;
 }
 #kategoriArtikel a img {
   background-color: cyan;
   border-radius: 50%;
+  width: 45px;
+  height: 45px;
 }
 #kategoriArtikel a:hover {
   background-color: rgba(188, 229, 255, 0.9);
@@ -872,6 +875,10 @@ body {
 #labelBlog h1 {
   font-size: 2.3em;
   font-weight: 800;
+}
+#kategoriArtikel .kategori a p {
+  font-weight: 800;
+  margin-bottom: 0;
 }
 
 #labelBlog .linkLabel a {
