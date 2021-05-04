@@ -43,7 +43,7 @@
     <!-- Akhir Gelombang -->
 
     <!-- Awal Footer -->
-    <?= $this->include('/templates/layout/footerIsiPembelajaran2'); ?>
+    <?= $this->include('/templates/layout/footer2'); ?>
     <!-- Akhir Footer -->
 
 
