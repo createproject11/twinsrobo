@@ -1212,6 +1212,7 @@ body {
 .pricelist-content .card .title {
   color: #1d79b2;
   font-size: 2em;
+  margin-top: 20px;
 }
 .pricelist-content .card .sub-title {
   font-weight: 500;
