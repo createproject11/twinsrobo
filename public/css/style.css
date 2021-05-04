@@ -733,6 +733,15 @@ body {
   font-weight: 500;
   line-height: 20px;
 }
+
+#blog2 .atasKiri .diskon {
+  font-size: 1.5rem;
+}
+
+#blog2 .atasKiri .setelahDiskon {
+  font-size: 1rem;
+}
+
 .diskon {
   text-decoration: line-through;
   color: red;
@@ -749,6 +758,10 @@ body {
   margin: 5px 0;
 }
 
+#blog2 .atasKanan hr {
+  margin: 5px 0;
+}
+
 .rating {
   margin-top: 5px;
   display: flex;
@@ -757,6 +770,10 @@ body {
 
 .rating img.bar {
   height: 30px;
+}
+
+#blog2 .atasKanan .rating img.bar {
+  height: 20px;
 }
 .stars i {
   color: gold;
@@ -800,8 +817,7 @@ body {
   padding: 5px;
   overflow: hidden;
 }
-#blog .blogAtas .card .gambar {
-}
+
 #blog .blogBawah .card .gambar {
   height: 199px;
 }
@@ -970,6 +986,10 @@ body {
   transform: scale(1.9);
 }
 
+.jumbotron .animasi.an-pembelajaran lottie-player {
+  transform: scale(2.2) !important;
+}
+
 /* #blog2 {
   padding-top: 100px;
 } */
@@ -978,6 +998,11 @@ body {
   padding: 0px 30px 30px 30px;
 } */
 
+#blog2 .blogAtas {
+  padding-top: 60px;
+}
+
+#blog2 .blogAtas a,
 #blog2 .blogBawah a {
   text-decoration: none;
   color: #545454;
@@ -1016,7 +1041,7 @@ body {
   color: #58bfff;
 }
 #blog2 .blogAtas .atasKanan .form-atasKanan {
-  font-size: 0.7em;
+  font-size: 0.67rem;
 }
 
 #blog2 .blogAtas .atasKanan .row,
@@ -1049,13 +1074,13 @@ body {
   align-items: center;
 }
 
-#blog2 .blogBawah .box-setuju {
+#blog2 .box-setuju {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-#blog2 .blogBawah .box-setuju input[type="checkbox"] {
+#blog2 .box-setuju input[type="checkbox"] {
   appearance: none;
   -webkit-appearance: none;
   width: 25px;
@@ -1069,7 +1094,17 @@ body {
   outline: none;
 }
 
-#blog2 .blogBawah .box-setuju label {
+#blog2 .atasKiri .box-setuju input[type="checkbox"] {
+  width: 30px;
+  height: 30px;
+}
+
+#blog2 .atasKanan .box-setuju input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+}
+
+#blog2 .box-setuju label {
   font-weight: 500;
   cursor: pointer;
   margin-bottom: 0;
@@ -1077,8 +1112,12 @@ body {
   margin-top: 3px;
 }
 
-#blog2 .blogBawah .box-setuju input[type="checkbox"]::after {
-  font-family: "Font Awesome 5 Free";
+#blog2 .atasKiri .box-setuju label {
+  margin-left: 20px;
+}
+
+#blog2 .box-setuju input[type="checkbox"]::after {
+  font-family: "Font Awesome 5 Pro";
   content: "\f00c";
   font-weight: 700;
   font-size: 13px;
@@ -1087,15 +1126,19 @@ body {
   transform: translateX(-50%) scale(2);
 }
 
-#blog2 .blogBawah .box-setuju input[type="checkbox"]:hover {
+#blog2 .atasKanan .box-setuju input[type="checkbox"]::after {
+  font-size: 10px;
+}
+
+#blog2 .box-setuju input[type="checkbox"]:hover {
   background-color: #ddfffc;
 }
 
-#blog2 .blogBawah .box-setuju input[type="checkbox"]:checked {
+#blog2 .box-setuju input[type="checkbox"]:checked {
   background: #6cf7ec;
 }
 
-#blog2 .blogBawah .box-setuju input[type="checkbox"]:checked::after {
+#blog2 .box-setuju input[type="checkbox"]:checked::after {
   opacity: 1;
   transform: translateX(0%) scale(1);
 }
