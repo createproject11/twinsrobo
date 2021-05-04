@@ -1244,6 +1244,15 @@ body {
   font-weight: 300;
 }
 
+#footer.footerIP2 {
+  margin-top: 50px;
+  background-color: transparent;
+  color: #1d79b2;
+}
+#footer.footerIP2 ul li a {
+  color: #1d79b2;
+}
+
 /* Akhir CSS Isi Pembelajaran2 */
 
 /* Awal CSS PriceList & Pricelist Subscription*/

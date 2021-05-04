@@ -1,4 +1,4 @@
-<?= $this->extend('/templates/super_user2'); ?>
+<?= $this->extend('/templates/isiPembelajaran2_user'); ?>
 
 <?= $this->section('content'); ?>
 <div class="Pembelajaran2">
