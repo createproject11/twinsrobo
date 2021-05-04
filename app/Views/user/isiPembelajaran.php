@@ -44,18 +44,26 @@
 <!-- Materi Pembelajaran -->
 <div class="materiPembelajaran">
     <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center">
-                <h1 class="title mt-4 mb-4">Materi Pembelajaran</h1>
-            </div>
-
-            <div class="col-sm-12 mP-menu">
-                <a class="btn tombol active" href="">Featured</a>
-                <a class="btn tombol" href="">Started</a>
-                <a class="btn tombol" href="">Freemium</a>
-                <a class="btn tombol" href="">Premium</a>
-            </div>
+        <div class="text-center mt-4">
+            <h1 class="title">Materi Pembelajaran</h1>
         </div>
+
+        <!-- Button Kategori -->
+        <ul class="nav nav-pills justify-content-between">
+            <li class="nav-item">
+                <a class="nav-link btn tombol active" href="#">Featured</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link btn tombol" href="#">Started</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link btn tombol" href="#">Freemium</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link btn tombol" href="#">Premium</a>
+            </li>
+        </ul>
+        <!-- End of Button Kategori -->
 
         <div class="row">
             <div class="col-sm-5">
@@ -104,11 +112,14 @@
                                 <hr style="height:1px; width: 100%; color:aqua;">
 
                                 <form>
-                                    <div class="form-check">
-                                        <input type="checkbox" class="form-check-input" id="centang">
-                                        <label form-check-label for="centang" class="form-atasKanan">Bayar Sekali Akses
+                                    <!-- Bayar 1x akses selamanya -->
+                                    <div class="form-check box-setuju">
+                                        <input type="checkbox" class="form-check-input" name="kelas1" id="kelas1"
+                                            checked>
+                                        <label form-check-label for="kelas1" class="form-atasKanan">Bayar Sekali Akses
                                             Selamanya</label>
                                     </div>
+                                    <!-- End of Bayar 1x akses selamanya -->
                                 </form>
                             </div>
                         </div>
@@ -145,11 +156,13 @@
                                 <hr style="height:1px; width: 100%; color:aqua;">
 
                                 <form>
-                                    <div class="form-check">
-                                        <input type="checkbox" class="form-check-input" id="centang2">
-                                        <label form-check-label for="centang2" class="form-atasKanan">Bayar Sekali Akses
+                                    <!-- Bayar 1x akses selamanya -->
+                                    <div class="form-check box-setuju">
+                                        <input type="checkbox" class="form-check-input" name="kelas2" id="kelas2">
+                                        <label form-check-label for="kelas2" class="form-atasKanan">Bayar Sekali Akses
                                             Selamanya</label>
                                     </div>
+                                    <!-- End of Bayar 1x akses selamanya -->
                                 </form>
                             </div>
                         </div>
@@ -186,11 +199,13 @@
                                 <hr style="height:1px; width: 100%; color:aqua;">
 
                                 <form>
-                                    <div class="form-check">
-                                        <input type="checkbox" class="form-check-input" id="centang3">
-                                        <label form-check-label for="centang3" class="form-atasKanan">Bayar Sekali Akses
+                                    <!-- Bayar 1x akses selamanya -->
+                                    <div class="form-check box-setuju">
+                                        <input type="checkbox" class="form-check-input" name="kelas3" id="kelas3">
+                                        <label form-check-label for="kelas3" class="form-atasKanan">Bayar Sekali Akses
                                             Selamanya</label>
                                     </div>
+                                    <!-- End of Bayar 1x akses selamanya -->
                                 </form>
                             </div>
                         </div>
