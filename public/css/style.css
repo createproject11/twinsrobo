@@ -1,3 +1,12 @@
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+}
+
 .table > thead > tr > th:first-child,
 .table > tbody > tr > th {
   text-align: center;
@@ -672,12 +681,12 @@ body {
   color: white;
   background-color: #1d79b2;
   border-radius: 21px;
-  width: 125px;
+  padding: 6px 20px;
 }
 
 .tombol {
-  width: 83px;
-  height: 28px;
+  /* width: 83px;
+  height: 28px; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -727,17 +736,34 @@ body {
 .diskon {
   text-decoration: line-through;
   color: red;
-  font-weight: 500;
+  margin-bottom: 0;
+  font-weight: 600;
 }
+
+.setelahDiskon {
+  font-size: 0.8rem;
+  margin-bottom: 0;
+}
+
+#blog2 .blogBawah hr {
+  margin: 5px 0;
+}
+
 .rating {
+  margin-top: 5px;
   display: flex;
   justify-content: space-between;
+}
+
+.rating img.bar {
+  height: 30px;
 }
 .stars i {
   color: gold;
 }
-.bar {
-  color: #58bfff;
+
+#blog2 .blogBawah label {
+  font-weight: 600;
 }
 
 /* CSS BLOG */
@@ -915,15 +941,17 @@ body {
   margin: 0;
 }
 .jumbotron .display-4 {
-  font-size: 2.3em;
+  font-size: 2rem;
   font-weight: 800;
+  margin-bottom: 20px;
 }
 .jumbotron p {
   font-size: 1em;
-  font-weight: 400;
+  font-weight: 500;
+  margin-bottom: 50px;
 }
 .jumbotron .container .row {
-  margin-top: 70px;
+  margin-top: 90px;
 }
 .jumbotron form {
   position: relative;
@@ -932,22 +960,27 @@ body {
 .jumbotron input {
   background-color: transparent;
   border: 1px solid #176da2;
-  width: 400px;
+  width: 100% !important;
 }
+
 .jumbotron .animasi {
   width: 50%;
-  overflow: hidden;
 }
 .jumbotron .animasi lottie-player {
   transform: scale(1.9);
 }
 
-#blog2 {
+/* #blog2 {
   padding-top: 100px;
-}
+} */
 
-#blog2 .blogBawah {
-  padding: 30px;
+/* #blog2 .blogBawah {
+  padding: 0px 30px 30px 30px;
+} */
+
+#blog2 .blogBawah a {
+  text-decoration: none;
+  color: #545454;
 }
 #blog2 .blogAtas .card,
 #blog2 .blogBawah .card {
@@ -993,8 +1026,9 @@ body {
 }
 #blog2 .blogAtas .atasKanan .title,
 #blog2 .blogBawah .title {
-  font-size: 1.1em;
+  font-size: 1rem;
   line-height: 22px;
+  margin-bottom: 5px;
 }
 #blog2 .blogAtas .atasKanan .date,
 #blog2 .blogBawah .date {
@@ -1055,18 +1089,30 @@ body {
 /* Akhir CSS Pembelajaran */
 
 /* Awal CSS Isi Pembelajaran */
+.materiPembelajaran {
+  padding: 20px 0;
+}
+
 .materiPembelajaran .tombol {
-  width: 100px;
   border-radius: 21px;
-  height: 30px;
-  font-size: 0.9em;
+  padding: 6px 20px;
+  font-size: 0.9rem;
+  margin-right: 15px;
   display: inline-block;
-  line-height: 15px;
-  margin: 5px;
+  font-weight: 500;
 }
 .materiPembelajaran .tombol.active {
   background-color: #1d79b2;
-  font-weight: 700;
+  font-weight: 600;
+}
+
+.materiPembelajaran .sub-judul {
+  font-size: 1.4rem;
+  margin-bottom: 0;
+}
+
+.materiPembelajaran p.desc {
+  font-size: 0.87rem;
 }
 /* Akhir CSS Isi Pembelajaran */
 
@@ -1083,7 +1129,7 @@ body {
   width: 120px;
   border-radius: 20px;
   color: #1d79b2;
-  font-weight: 800;
+  font-weight: 600;
 }
 .isiPembelajaran2 .title {
   color: #1d79b2;
