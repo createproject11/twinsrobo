@@ -1299,6 +1299,9 @@ body {
 #footer.footer2 ul li a {
   color: #1d79b2;
 }
+#footer.footer2 ul li a:hover {
+  color: black;
+}
 
 /* Akhir CSS Isi Pembelajaran2 */
 
