@@ -1286,13 +1286,17 @@ body {
 .isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a span {
   font-weight: 300;
 }
+.isiPembelajaran2 .sisiKanan,
+.isiPembelajaran2 .sisiKiri {
+  margin: 10px 0;
+}
 
-#footer.footerIP2 {
+#footer.footer2 {
   margin-top: 50px;
   background-color: transparent;
   color: #1d79b2;
 }
-#footer.footerIP2 ul li a {
+#footer.footer2 ul li a {
   color: #1d79b2;
 }
 

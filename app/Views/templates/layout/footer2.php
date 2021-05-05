@@ -1,4 +1,4 @@
-<footer id="footer" class="footerIP2">
+<footer id="footer" class="footer2">
     <!-- Awal Container -->
     <div class="container">
         <!-- Awal Row -->
@@ -22,7 +22,7 @@
                 <div class="row">
                     <div class="col-lg-7">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-sm-6 col-md-3 col-lg-6">
                                 <h6>Perusahaan</h6>
 
                                 <ul class="list-unstyled">
@@ -32,7 +32,7 @@
                                 </ul>
                             </div>
 
-                            <div class="col-md-6">
+                            <div class="col-sm-6 col-md-3 col-lg-6">
                                 <h6>Gabung</h6>
 
                                 <ul class="list-unstyled">
@@ -42,7 +42,7 @@
                                 </ul>
                             </div>
 
-                            <div class="col-md-6">
+                            <div class="col-sm-6 col-md-3 col-lg-6">
                                 <h6>Karir</h6>
 
                                 <ul class="list-unstyled">
@@ -51,7 +51,7 @@
                                 </ul>
                             </div>
 
-                            <div class="col-md-6">
+                            <div class="col-sm-6 col-md-3 col-lg-6">
                                 <h6>Hubungi Kami</h6>
 
                                 <ul class="list-unstyled">
