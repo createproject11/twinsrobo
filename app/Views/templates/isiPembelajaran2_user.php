@@ -22,6 +22,7 @@
     <!-- My CSS -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css" />
+    <link rel="stylesheet" href="css/user/style_user.css">
     <link rel="stylesheet" href="css/user/responsive_user.css">
 
     <title>Twins Robo Blog Page</title>
