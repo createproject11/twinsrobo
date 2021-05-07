@@ -7,7 +7,7 @@
   background-repeat: no-repeat; background-size: cover;">
     <div class="container">
         <div class="row">
-            <div class="col-lg-5 side-judul">
+            <div class="col-lg-5 side-judul aos-init aos-animate" data-aos="fade-up">
                 <div class="cont-judul">
                     <h1 class="judul">
                         Belajar Robotika <br>
@@ -40,7 +40,7 @@
         <div class="cont-fitur">
             <!-- Program Robot -->
             <div class="row m-baris">
-                <div class="col-md-6 img-fitur">
+                <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
                     <img src="/img/landingpage/program.png" alt="">
                 </div>
                 <div class="col-md-6 isi-fitur">
@@ -196,7 +196,7 @@
                                 <p>Yuk mungkin kamu berminat jadi mentor twins robo ? langsung aja daftar sekarang dan
                                     dapetin manfaatnya </p>
                             </div>
-                            <a class="gabung" href="">Gabung</a>
+                            <a class="gabung hvr-sweep-to-top" href="">Gabung</a>
                         </div>
                     </div>
                 </div>
@@ -214,7 +214,7 @@
                                 <p>Yuk mungkin kamu berminat jadi mentor twins robo ? langsung aja daftar sekarang dan
                                     dapetin manfaatnya </p>
                             </div>
-                            <a class="gabung" href="">Gabung</a>
+                            <a class="gabung hvr-sweep-to-top" href="">Gabung</a>
                         </div>
                     </div>
                 </div>
@@ -232,7 +232,7 @@
                                 <p>Yuk mungkin kamu berminat jadi mentor twins robo ? langsung aja daftar sekarang dan
                                     dapetin manfaatnya </p>
                             </div>
-                            <a class="gabung" href="">Gabung</a>
+                            <a class="gabung hvr-sweep-to-top" href="">Gabung</a>
                         </div>
                     </div>
                 </div>

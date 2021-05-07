@@ -131,6 +131,13 @@
     text-align: center;
   }
 
+  .isiPembelajaran2 .mP2-menu .tombol {
+    margin-bottom: 10px;
+  }
+
+  .isiPembelajaran2 .sisiKanan .title {
+    text-align: center;
+  }
   /* CSS Gerald*/
   /* Awal CSS BLOG */
   #pencarian .form-inline input {
@@ -270,6 +277,11 @@
     margin-right: 0;
     margin-bottom: 20px;
   }
+
+  .isiPembelajaran2 .title {
+    font-size: 1.6rem;
+  }
+
   /* ---------------------------- */
   .jumbotron span.cari {
     display: none;
@@ -353,5 +365,13 @@
   .grow-page .cont-judul h2,
   .unduh .cont-judul h2 {
     font-size: 2.1rem;
+  }
+
+  .isiPembelajaran2 .title {
+    font-size: 1.4rem;
+  }
+
+  .isiPembelajaran2 p.title {
+    margin-bottom: 0px;
   }
 }

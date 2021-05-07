@@ -87,7 +87,7 @@
                             <form>
                                 <!-- Bayar 1x akses selamanya -->
                                 <div class="form-check box-setuju">
-                                    <input type="checkbox" class="form-check-input" name="kelas1" id="kelas2">
+                                    <input type="checkbox" class="form-check-input" name="kelas1" id="kelas1">
                                     <label form-check-label for="kelas1" class="form-atasKanan">Bayar Sekali Akses
                                         Selamanya</label>
                                 </div>
@@ -182,7 +182,7 @@
                                             <!-- Bayar 1x akses selamanya -->
                                             <div class="form-check box-setuju">
                                                 <input type="checkbox" class="form-check-input" name="kelas3"
-                                                    id="kelas2">
+                                                    id="kelas3">
                                                 <label form-check-label for="kelas3" class="form-atasKanan">Bayar Sekali
                                                     Akses
                                                     Selamanya</label>
@@ -230,9 +230,9 @@
                                         <form>
                                             <!-- Bayar 1x akses selamanya -->
                                             <div class="form-check box-setuju">
-                                                <input type="checkbox" class="form-check-input" name="kelas3"
-                                                    id="kelas2">
-                                                <label form-check-label for="kelas3" class="form-atasKanan">Bayar Sekali
+                                                <input type="checkbox" class="form-check-input" name="kelas4"
+                                                    id="kelas4">
+                                                <label form-check-label for="kelas4" class="form-atasKanan">Bayar Sekali
                                                     Akses
                                                     Selamanya</label>
                                             </div>
@@ -276,9 +276,9 @@
                                         <form>
                                             <!-- Bayar 1x akses selamanya -->
                                             <div class="form-check box-setuju">
-                                                <input type="checkbox" class="form-check-input" name="kelas3"
-                                                    id="kelas2">
-                                                <label form-check-label for="kelas3" class="form-atasKanan">Bayar Sekali
+                                                <input type="checkbox" class="form-check-input" name="kelas5"
+                                                    id="kelas5">
+                                                <label form-check-label for="kelas5" class="form-atasKanan">Bayar Sekali
                                                     Akses
                                                     Selamanya</label>
                                             </div>
