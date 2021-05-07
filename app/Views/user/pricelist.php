@@ -1,4 +1,4 @@
-<?= $this->extend('/templates/super_user2'); ?>
+<?= $this->extend('/templates/super_user'); ?>
 
 <?= $this->section('content'); ?>
 <div class="pricelist-judul">
@@ -19,7 +19,7 @@
 <div class="pricelist-content">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6 m-price">
                 <div class="card">
                     <div class="card-head">
                         <div class="container">
@@ -35,13 +35,15 @@
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Akses kelas selamanya</p>
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Software Design & Code</p>
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Materi belajar terbaru</p>
-                        <a href="#" class="btn tombol2">Katalog Kelas Starter</a>
+                        <div class="cont-btn">
+                            <a href="#" class="btn tombol2">Katalog Kelas Starter</a>
+                        </div>
                     </div>
                     <!-- Akhir Card-Body -->
                 </div>
             </div>
 
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6 m-price">
                 <div class="card">
                     <div class="card-head">
                         <div class="container">
@@ -63,15 +65,20 @@
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Sertifikat kelas</p>
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Free update tutorial</p>
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Free akses kelas freemium</p>
-                        <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Bonus Basic Starter Kit Arduino <span class="font-weight-bold body-span" style="font-size: .9em;"><br> *Bagi yang Mengambil Materi IoT</span></p>
+                        <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Bonus Basic Starter Kit Arduino
+                            <span class="font-weight-bold body-span" style="font-size: .9em;"><br> *Bagi yang Mengambil
+                                Materi IoT</span>
+                        </p>
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Bonus Coding Project IoT</p>
-                        <a href="#" class="btn tombol2">Katalog Kelas Starter</a>
+                        <div class="cont-btn">
+                            <a href="#" class="btn tombol2">Katalog Kelas Starter</a>
+                        </div>
                     </div>
                     <!-- Akhir Card-Body -->
                 </div>
             </div>
 
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6 m-price">
                 <div class="card">
                     <div class="card-head">
                         <div class="container">
@@ -97,7 +104,9 @@
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Di Promosikan Projectnya</p>
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Bonus Coding Project IoT</p>
                         <p class="card-text"> <i class="bi bi-check-circle-fill"></i> Bonus UI Premium design</p>
-                        <a href="#" class="btn tombol2">Katalog Kelas Starter</a>
+                        <div class="cont-btn">
+                            <a href="#" class="btn tombol2">Katalog Kelas Starter</a>
+                        </div>
                     </div>
                     <!-- Akhir Card-Body -->
                 </div>

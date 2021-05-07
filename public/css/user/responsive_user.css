@@ -58,6 +58,37 @@
     margin-bottom: 90px;
   }
 
+  .pricelist-content .card .card-head .container {
+    text-align: center;
+  }
+
+  .pricelist-content .card .card-body .btn-primary,
+  .pricelist-content .card .card-body .tombol2 {
+    padding: 10px 0;
+    margin: 5px 0;
+  }
+
+  .pricelist-content .card {
+    height: 100%;
+  }
+
+  .pricelist-content .m-price {
+    margin-bottom: 25px;
+  }
+
+  .pricelist-content .card .card-body {
+    position: relative;
+    padding-bottom: 150px;
+  }
+
+  .pricelist-content .card .card-body .cont-btn {
+    position: absolute;
+    bottom: 30px;
+    left: 0;
+    width: 100%;
+    padding: 0 20px;
+  }
+
   /* -------------------------------- */
   .jumbotron .animasi {
     margin-top: 100px;
@@ -138,6 +169,11 @@
   .isiPembelajaran2 .sisiKanan .title {
     text-align: center;
   }
+
+  .pricelist-judul {
+    margin-top: 30px;
+  }
+
   /* CSS Gerald*/
   /* Awal CSS BLOG */
   #pencarian .form-inline input {
@@ -208,7 +244,7 @@
 
   /* Awal CSS Pricelist & Pricelist Subscription */
   .pricelist-judul .title {
-    font-size: 1.2em;
+    font-size: 1.6em;
   }
   .pricelist-judul p {
     font-size: 0.9em;
@@ -280,6 +316,14 @@
 
   .isiPembelajaran2 .title {
     font-size: 1.6rem;
+  }
+
+  .pricelist-content .card .title {
+    font-size: 1.6rem;
+  }
+
+  .pricelist-content .card hr {
+    margin: 0;
   }
 
   /* ---------------------------- */
@@ -373,5 +417,9 @@
 
   .isiPembelajaran2 p.title {
     margin-bottom: 0px;
+  }
+
+  .pricelist-content .card .title {
+    font-size: 1.4rem;
   }
 }

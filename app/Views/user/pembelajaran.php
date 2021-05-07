@@ -15,8 +15,8 @@
                             aria-label="Search" />
                     </div>
 
-                    <button class="col-2 btn btn-primary" type="submit">
-                        <i class="fas fa-search" style="font-weight: 200;"></i>
+                    <button class="col-2 btn btn-primary hvr-icon-pulse-shrink" type="submit">
+                        <i class="fas fa-search hvr-icon" style="font-weight: 200;"></i>
                         <span class="cari">Cari</span>
                     </button>
                 </form>
@@ -84,15 +84,10 @@
                             </div>
                             <hr style="height:1px; width: 100%; color:aqua;">
 
-                            <form>
-                                <!-- Bayar 1x akses selamanya -->
-                                <div class="form-check box-setuju">
-                                    <input type="checkbox" class="form-check-input" name="kelas1" id="kelas1">
-                                    <label form-check-label for="kelas1" class="form-atasKanan">Bayar Sekali Akses
-                                        Selamanya</label>
-                                </div>
-                                <!-- End of Bayar 1x akses selamanya -->
-                            </form>
+                            <div class="bayar-sekali d-flex justify-content-start align-items-center">
+                                <i class="fas fa-check-circle"></i>
+                                <p>Bayar Sekali Akses Selamanya</p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -132,17 +127,10 @@
                                         </div>
                                         <hr style="height:1px; width: 100%; color:aqua;">
 
-                                        <form>
-                                            <!-- Bayar 1x akses selamanya -->
-                                            <div class="form-check box-setuju">
-                                                <input type="checkbox" class="form-check-input" name="kelas2"
-                                                    id="kelas2">
-                                                <label form-check-label for="kelas2" class="form-atasKanan">Bayar Sekali
-                                                    Akses
-                                                    Selamanya</label>
-                                            </div>
-                                            <!-- End of Bayar 1x akses selamanya -->
-                                        </form>
+                                        <div class="bayar-sekali d-flex justify-content-start align-items-center">
+                                            <i class="fas fa-check-circle"></i>
+                                            <p>Bayar Sekali Akses Selamanya</p>
+                                        </div>
                                     </div>
                                 </div>
                             </a>
@@ -178,17 +166,10 @@
                                         </div>
                                         <hr style="height:1px; width: 100%; color:aqua;">
 
-                                        <form>
-                                            <!-- Bayar 1x akses selamanya -->
-                                            <div class="form-check box-setuju">
-                                                <input type="checkbox" class="form-check-input" name="kelas3"
-                                                    id="kelas3">
-                                                <label form-check-label for="kelas3" class="form-atasKanan">Bayar Sekali
-                                                    Akses
-                                                    Selamanya</label>
-                                            </div>
-                                            <!-- End of Bayar 1x akses selamanya -->
-                                        </form>
+                                        <div class="bayar-sekali d-flex justify-content-start align-items-center">
+                                            <i class="fas fa-check-circle"></i>
+                                            <p>Bayar Sekali Akses Selamanya</p>
+                                        </div>
                                     </div>
                                 </div>
                             </a>
@@ -227,17 +208,10 @@
                                         </div>
                                         <hr style="height:1px; width: 100%; color:aqua;">
 
-                                        <form>
-                                            <!-- Bayar 1x akses selamanya -->
-                                            <div class="form-check box-setuju">
-                                                <input type="checkbox" class="form-check-input" name="kelas4"
-                                                    id="kelas4">
-                                                <label form-check-label for="kelas4" class="form-atasKanan">Bayar Sekali
-                                                    Akses
-                                                    Selamanya</label>
-                                            </div>
-                                            <!-- End of Bayar 1x akses selamanya -->
-                                        </form>
+                                        <div class="bayar-sekali d-flex justify-content-start align-items-center">
+                                            <i class="fas fa-check-circle"></i>
+                                            <p>Bayar Sekali Akses Selamanya</p>
+                                        </div>
                                     </div>
                                 </div>
                             </a>
@@ -273,17 +247,10 @@
                                         </div>
                                         <hr style="height:1px; width: 100%; color:aqua;">
 
-                                        <form>
-                                            <!-- Bayar 1x akses selamanya -->
-                                            <div class="form-check box-setuju">
-                                                <input type="checkbox" class="form-check-input" name="kelas5"
-                                                    id="kelas5">
-                                                <label form-check-label for="kelas5" class="form-atasKanan">Bayar Sekali
-                                                    Akses
-                                                    Selamanya</label>
-                                            </div>
-                                            <!-- End of Bayar 1x akses selamanya -->
-                                        </form>
+                                        <div class="bayar-sekali d-flex justify-content-start align-items-center">
+                                            <i class="fas fa-check-circle"></i>
+                                            <p>Bayar Sekali Akses Selamanya</p>
+                                        </div>
                                     </div>
                                 </div>
                             </a>
