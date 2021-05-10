@@ -14,6 +14,39 @@
 }
 
 @media only screen and (max-width: 992px) {
+  nav .dropdown .menu-area {
+    z-index: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .isiPembelajaran2 .sisiKanan .menuVideoPembelajaran a {
+    font-size: 1rem;
+  }
+
+  /* - Mega Area properties - */
+  nav .dropdown .mega-area {
+    z-index: 0;
+    background: transparent;
+    position: relative;
+    border: none;
+    outline: none;
+    width: 100%;
+    top: 0;
+    padding: 0;
+  }
+
+  nav .btn-l .btn {
+    width: 30%;
+    border-radius: 35px;
+    padding: 8px 30px;
+  }
+
+  /* - Disapear Icon - */
+  nav .dropdown-item .col-md-3 {
+    display: none !important;
+  }
+
   .top-page .cont-judul {
     text-align: center;
     margin-bottom: 40px;
@@ -141,6 +174,15 @@
 }
 
 @media only screen and (max-width: 767px) {
+  nav .btn-l {
+    flex-direction: column;
+  }
+
+  nav .btn-l .btn {
+    width: 70%;
+    margin-top: 20px;
+  }
+
   .fitur-page .cont-fitur .isi-fitur {
     margin-top: 20px;
     text-align: center;
@@ -230,6 +272,9 @@
   .materiPembelajaran .nav-item .tombol {
     width: 100%;
   }
+  .isiPembelajaran2 .mP2-menu .tombol {
+    padding: 8px;
+  }
 
   /* CSS Gerald */
   /* Awal CSS BLOG */
@@ -254,6 +299,10 @@
 }
 
 @media only screen and (max-width: 480px) {
+  nav .btn-l .btn {
+    width: 100%;
+  }
+
   h2 {
     font-size: 1.7rem;
   }

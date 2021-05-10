@@ -22,6 +22,121 @@ nav.landpage {
 nav.landpage.navbar-dark .navbar-nav .nav-link {
   color: #fff;
 }
+
+.nav-item {
+  margin-top: 0;
+}
+
+.nav-item.active {
+  background: none;
+  font-weight: 600;
+}
+
+.nav-item:hover {
+  font-weight: 600;
+}
+
+nav .menu-area {
+  position: relative;
+  z-index: 1001;
+}
+
+nav .dropdown .mega-area {
+  border-radius: 20px;
+  overflow: hidden;
+  z-index: 1001;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  padding: 20px 10px;
+}
+
+nav .dropdown .nav-link {
+  position: relative;
+}
+
+nav .dropdown .kelas-area {
+  width: 700px;
+}
+
+nav .dropdown .community-area {
+  width: 300px;
+}
+
+nav .mega-area a {
+  text-decoration: none;
+  margin-bottom: 10px;
+  margin-right: 0;
+}
+
+nav .mega-area a:hover {
+  background: none;
+}
+
+nav .mega-area a:hover h5 {
+  font-weight: 600;
+}
+
+nav .mega-area a:hover {
+  text-decoration: none;
+}
+
+nav .mega-area a h5 {
+  color: #1d79b2;
+  font-size: 0.9rem;
+  margin-bottom: 2px;
+}
+
+nav .mega-area a p {
+  color: #545454;
+  font-size: 0.8rem;
+  margin-bottom: 0;
+}
+
+nav .mega-area img {
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+}
+
+nav .kelas-area img {
+  background: #58bfff;
+  padding: 5px;
+}
+
+nav .btn-l a {
+  display: inline-block;
+  border-radius: 20px;
+  border: 2px solid #176da2;
+  padding: 5px 20px;
+  font-size: 0.9rem;
+  margin-left: 15px;
+  text-decoration: none;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+nav .btn-l a:hover {
+  background-color: #176da2;
+}
+
+nav .btn-l a.btn-search {
+  height: 30px;
+  width: 30px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+
+nav .btn-l a.btn-search i {
+  font-size: 16px;
+}
+
+nav .btn-l a.btn-login {
+  background: #176da2;
+}
+
 /* --- End of Navbar CSS --- */
 
 /* --- Top Page CSS --- */
