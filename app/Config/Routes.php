@@ -54,6 +54,7 @@ $routes->get('/IsiPembelajaran', 'IsiPembelajaran::isiPembelajaran');
 $routes->get('/IsiPembelajaran2', 'IsiPembelajaran2::isiPembelajaran2');
 $routes->get('/Pricelist', 'Pricelist::pricelist');
 $routes->get('/PricelistSubscription', 'PricelistSubscription::pricelistSubscription');
+$routes->get('/InfoLomba', 'InfoLomba::infoLomba');
 
 
 /*
