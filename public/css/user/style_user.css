@@ -836,6 +836,16 @@ body {
   font-size: 0.87rem;
 }
 
+#blog2 .tab-content .tab-pane.show.active {
+  background-color: transparent;
+}
+#blog2 .tab-content .tab-pane.fade {
+  background-color: transparent;
+}
+.materiPembelajaran .nav-link.active:hover {
+  color: #58bfff;
+}
+
 /* Akhir CSS Isi Pembelajaran */
 
 /* Awal CSS Isi Pembelajaran2 */
