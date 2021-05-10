@@ -514,6 +514,15 @@ body {
   line-height: 20px;
 }
 
+.materiPembelajaran .nav-item a {
+  text-decoration: none;
+}
+
+.materiPembelajaran .nav-item a.tombol:hover {
+  color: #fff;
+  background: #1d79b2;
+}
+
 #blog2 .atasKiri .diskon {
   font-size: 1.5rem;
 }
@@ -932,6 +941,7 @@ body {
   margin-right: 15px;
   display: inline-block;
   font-weight: 500;
+  transition: 0.2s;
 }
 .materiPembelajaran .tombol.active {
   background-color: #1d79b2;
