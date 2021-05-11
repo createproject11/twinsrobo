@@ -1,18 +1,16 @@
 <nav id="menu-kedua" class="navbar navbar-expand-lg navbar-light bg-primary2 fixed-top">
     <div class="container">
         <a class="navbar-brand" href="#">
-            <img src="/img/Logo Apps Twins Robo.png" alt="" />
+            <img src="img/Logo Apps Twins Robo.png" alt="" />
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item dropdown menu-area">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Kelas
                     </a>
                     <div class="dropdown-menu kelas-area mega-area" aria-labelledby="mega-one">
@@ -104,8 +102,7 @@
                 </li>
 
                 <li class="nav-item dropdown menu-area">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Community
                     </a>
                     <div class="dropdown-menu community-area mega-area" aria-labelledby="mega-one">

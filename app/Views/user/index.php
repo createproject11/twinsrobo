@@ -3,7 +3,7 @@
 <?= $this->section('content'); ?>
 
 <!-- Top Page -->
-<section class="top-page" style="background: url('/img/landingpage/bg_top.png'); background-position: center;
+<section class="top-page" style="background: url('img/landingpage/bg_top.png'); background-position: center;
   background-repeat: no-repeat; background-size: cover;">
     <div class="container">
         <div class="row">
@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="col-lg-7 center-img">
-                <img src="/img/landingpage/top_page.png" alt="">
+                <img src="img/landingpage/top_page.png" alt="">
             </div>
         </div>
     </div>
@@ -41,7 +41,7 @@
             <!-- Program Robot -->
             <div class="row m-baris">
                 <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
-                    <img src="/img/landingpage/program.png" alt="">
+                    <img src="img/landingpage/program.png" alt="">
                 </div>
                 <div class="col-md-6 isi-fitur aos-init aos-animate" data-aos="fade-right" data-aos-delay="400">
                     <h2>Program Robot</h2>
@@ -59,7 +59,7 @@
                         calibrasi sensor dan lain-lain.</p>
                 </div>
                 <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
-                    <img src="/img/landingpage/checkmy.png" alt="">
+                    <img src="img/landingpage/checkmy.png" alt="">
                 </div>
             </div>
             <!-- End Check My Robot's -->
@@ -67,7 +67,7 @@
             <!-- Mini Games -->
             <div class="row m-baris">
                 <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
-                    <img src="/img/landingpage/mini1.png" alt="">
+                    <img src="img/landingpage/mini1.png" alt="">
                 </div>
                 <div class="col-md-6 isi-fitur aos-init aos-animate" data-aos="fade-right" data-aos-delay="400">
                     <h2>Mini Games</h2>
@@ -87,7 +87,7 @@
                         bidangnya.</p>
                 </div>
                 <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
-                    <img src="/img/landingpage/learn.png" alt="">
+                    <img src="img/landingpage/learn.png" alt="">
                 </div>
             </div>
             <!-- End of Learn Robot -->
@@ -95,7 +95,7 @@
             <!-- Mini Games 2 -->
             <div class="row m-baris">
                 <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
-                    <img src="/img/landingpage/mini2.png" alt="">
+                    <img src="img/landingpage/mini2.png" alt="">
                 </div>
                 <div class="col-md-6 isi-fitur aos-init aos-animate" data-aos="fade-right" data-aos-delay="400">
                     <h2>Mini Games</h2>
@@ -109,8 +109,7 @@
         </div>
     </div>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-        <path fill="#459DD2" fill-opacity="0.2"
-            d="M0,64L60,80C120,96,240,128,360,144C480,160,600,160,720,144C840,128,960,96,1080,80C1200,64,1320,64,1380,64L1440,64L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z">
+        <path fill="#459DD2" fill-opacity="0.2" d="M0,64L60,80C120,96,240,128,360,144C480,160,600,160,720,144C840,128,960,96,1080,80C1200,64,1320,64,1380,64L1440,64L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z">
         </path>
     </svg>
 </section>
@@ -134,8 +133,7 @@
             <div class="row">
                 <!-- Fun dan Mudah Digunakan -->
                 <div class="col-lg-4 text-center aos-init aos-animate" data-aos="zoom-in-up">
-                    <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_vo0a1yca.json"
-                        background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay>
+                    <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_vo0a1yca.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay>
                     </lottie-player>
                     <h3>Fun & Mudah Di Gunakan</h3>
                     <p>Satu-satunya pembelajaran robotik dan programming robot dengan aplikasi mobile. Selain itu
@@ -145,8 +143,7 @@
 
                 <!-- Aplikasi Buatan Anak Indonesia -->
                 <div class="col-lg-4 text-center aos-init aos-animate" data-aos="zoom-in-up" data-aos-delay="300">
-                    <lottie-player src="https://assets6.lottiefiles.com/packages/lf20_NmBGIS.json"
-                        background="transparent" speed="1" style="width: 250px; height: 300px;" loop autoplay>
+                    <lottie-player src="https://assets6.lottiefiles.com/packages/lf20_NmBGIS.json" background="transparent" speed="1" style="width: 250px; height: 300px;" loop autoplay>
                     </lottie-player>
                     <h3>Aplikasi Buatan Anak Indonesia</h3>
                     <p>Aplikasi Twins Robo ini asli buatan anak indonesia yang bergerak di bidang programming dan
@@ -156,8 +153,7 @@
 
                 <!-- Diajarkan Bersama Mentor -->
                 <div class="col-lg-4 text-center aos-init aos-animate" data-aos="zoom-in-up" data-aos-delay="600">
-                    <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_Fy9W8c.json"
-                        background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay>
+                    <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_Fy9W8c.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay>
                     </lottie-player>
                     <h3>Di Ajarkan bersama Mentor Professional di bidangnya</h3>
                     <p>Aplikasi Twins Robo ini banyak sekali materi-materi yang diajarkan oleh pelatih-pelatih robot dan
@@ -171,7 +167,7 @@
 <!-- End of Intro Page -->
 
 <!-- Grow Page -->
-<section class="grow-page" style="background: url('/img/landingpage/bg_grow.png'); background-position: center;
+<section class="grow-page" style="background: url('img/landingpage/bg_grow.png'); background-position: center;
   background-repeat: no-repeat; background-size: cover;">
     <div class="container">
         <div class="cont-judul aos-init aos-animate" data-aos="fade-right">
@@ -188,7 +184,7 @@
                     <div class="card h-100">
                         <div class="card-body">
                             <div class="icon id-card">
-                                <img src="/img/landingpage/id_card.png" alt="">
+                                <img src="img/landingpage/id_card.png" alt="">
                             </div>
                             <div class="card-title">
                                 <h3>Gabung jadi Mentor, yuk !</h3>
@@ -208,7 +204,7 @@
                     <div class="card h-100">
                         <div class="card-body">
                             <div class="icon teknisi">
-                                <img src="/img/landingpage/teknisi.png" alt="">
+                                <img src="img/landingpage/teknisi.png" alt="">
                             </div>
                             <div class="card-title">
                                 <h3>Gabung jadi Teknisi Robot</h3>
@@ -228,7 +224,7 @@
                     <div class="card h-100">
                         <div class="card-body">
                             <div class="icon gabung">
-                                <img src="/img/landingpage/gabung.png" alt="">
+                                <img src="img/landingpage/gabung.png" alt="">
                             </div>
                             <div class="card-title">
                                 <h3>Gabung jadi Software Engineer</h3>
@@ -249,7 +245,7 @@
 <!-- End of Grow Page -->
 
 <!-- Unduh Page -->
-<section class="unduh" style="background: url('/img/landingpage/bg_unduh.png'); background-position: center;
+<section class="unduh" style="background: url('img/landingpage/bg_unduh.png'); background-position: center;
   background-repeat: no-repeat; background-size: cover;">
     <div class="container">
         <div class="row">
@@ -259,12 +255,12 @@
                 </div>
                 <div class="cont-btn d-flex justify-content-start">
                     <a href="" class="btn-appstore d-flex justify-content-between align-items-center">
-                        <img src="/img/landingpage/apple.png" alt="">
+                        <img src="img/landingpage/apple.png" alt="">
                         <h5>App store</h5>
                     </a>
 
                     <a href="" class="btn-pstore d-flex justify-content-between align-items-center">
-                        <img src="/img/landingpage/pstore.png" alt="">
+                        <img src="img/landingpage/pstore.png" alt="">
                         <h5>Play store</h5>
                     </a>
                 </div>
