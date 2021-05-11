@@ -46,9 +46,11 @@
                 <img src="img/Logo Apps Twins Robo.png" alt="" />
                 <h4 class="sub-title">Twins Robo App</h4>
               </div>
-              <h2 class="title">
-                Fitur Info Lomba Robot Terbaru, Dengan Banyaknya Lomba-Lomba
-              </h2>
+              <a href="">
+                <h2 class="title">
+                  Fitur Info Lomba Robot Terbaru, Dengan Banyaknya Lomba-Lomba
+                </h2>
+              </a>
               <p class="date">Twins Robo / 3 Maret 2021</p>
             </div>
           </div>
@@ -59,50 +61,58 @@
         <div class="atasKanan col-lg-6">
           <div class="row">
             <div class="col-lg-6 col-md-6">
-              <div class="card">
-                <div class="gambar">
-                  <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+              <a href="">
+                <div class="card">
+                  <div class="gambar">
+                    <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+                  </div>
+                  <div class="card-body">
+                    <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                    <p class="date">Twins Robo / 3 Maret 2021</p>
+                  </div>
                 </div>
-                <div class="card-body">
-                  <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-                  <p class="date">Twins Robo / 3 Maret 2021</p>
-                </div>
-              </div>
+              </a>
             </div>
             <div class="col-lg-6 col-md-6">
-              <div class="card">
-                <div class="gambar">
-                  <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+              <a href="">
+                <div class="card">
+                  <div class="gambar">
+                    <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+                  </div>
+                  <div class="card-body">
+                    <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                    <p class="date">Twins Robo / 3 Maret 2021</p>
+                  </div>
                 </div>
-                <div class="card-body">
-                  <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-                  <p class="date">Twins Robo / 3 Maret 2021</p>
-                </div>
-              </div>
+              </a>
             </div>
           </div>
           <div class="row">
             <div class="col-lg-6 col-md-6">
-              <div class="card">
-                <div class="gambar">
-                  <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+              <a href="">
+                <div class="card">
+                  <div class="gambar">
+                    <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+                  </div>
+                  <div class="card-body">
+                    <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                    <p class="date">Twins Robo / 3 Maret 2021</p>
+                  </div>
                 </div>
-                <div class="card-body">
-                  <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-                  <p class="date">Twins Robo / 3 Maret 2021</p>
-                </div>
-              </div>
+              </a>
             </div>
             <div class="col-lg-6 col-md-6">
-              <div class="card">
-                <div class="gambar">
-                  <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+              <a href="">
+                <div class="card">
+                  <div class="gambar">
+                    <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 171px; height: 128px" />
+                  </div>
+                  <div class="card-body">
+                    <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                    <p class="date">Twins Robo / 3 Maret 2021</p>
+                  </div>
                 </div>
-                <div class="card-body">
-                  <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-                  <p class="date">Twins Robo / 3 Maret 2021</p>
-                </div>
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -117,107 +127,125 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-4 ">
-          <div class="card">
-            <div class="gambar">
-              <img src="img/Dashboard.png" class="card-img-top" style="width: fit-content;" alt="" />
+          <a href="">
+            <div class="card">
+              <div class="gambar">
+                <img src="img/Dashboard.png" class="card-img-top" style="width: fit-content;" alt="" />
+              </div>
+              <div class="card-body">
+                <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                <p class="date">Twins Robo / 3 Maret 2021</p>
+              </div>
             </div>
-            <div class="card-body">
-              <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-              <p class="date">Twins Robo / 3 Maret 2021</p>
-            </div>
-          </div>
+          </a>
         </div>
         <div class="col-lg-4 ">
-          <div class="card">
-            <div class="gambar">
-              <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+          <a href="">
+            <div class="card">
+              <div class="gambar">
+                <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+              </div>
+              <div class="card-body">
+                <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                <p class="date">Twins Robo / 3 Maret 2021</p>
+              </div>
             </div>
-            <div class="card-body">
-              <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-              <p class="date">Twins Robo / 3 Maret 2021</p>
-            </div>
-          </div>
+          </a>
         </div>
         <div class="col-lg-4">
-          <div class="card">
-            <div class="gambar">
-              <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+          <a href="">
+            <div class="card">
+              <div class="gambar">
+                <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+              </div>
+              <div class="card-body">
+                <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                <p class="date">Twins Robo / 3 Maret 2021</p>
+              </div>
             </div>
-            <div class="card-body">
-              <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-              <p class="date">Twins Robo / 3 Maret 2021</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="card">
-            <div class="gambar">
-              <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
-            </div>
-            <div class="card-body">
-              <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-              <p class="date">Twins Robo / 3 Maret 2021</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="card">
-            <div class="gambar">
-              <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
-            </div>
-            <div class="card-body">
-              <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-              <p class="date">Twins Robo / 3 Maret 2021</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="card">
-            <div class="gambar">
-              <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
-            </div>
-            <div class="card-body">
-              <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-              <p class="date">Twins Robo / 3 Maret 2021</p>
-            </div>
-          </div>
+          </a>
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-4">
-          <div class="card">
-            <div class="gambar">
-              <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+        <div class="col-lg-4 ">
+          <a href="">
+            <div class="card">
+              <div class="gambar">
+                <img src="img/Dashboard.png" class="card-img-top" style="width: fit-content;" alt="" />
+              </div>
+              <div class="card-body">
+                <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                <p class="date">Twins Robo / 3 Maret 2021</p>
+              </div>
             </div>
-            <div class="card-body">
-              <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-              <p class="date">Twins Robo / 3 Maret 2021</p>
+          </a>
+        </div>
+        <div class="col-lg-4 ">
+          <a href="">
+            <div class="card">
+              <div class="gambar">
+                <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+              </div>
+              <div class="card-body">
+                <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                <p class="date">Twins Robo / 3 Maret 2021</p>
+              </div>
             </div>
-          </div>
+          </a>
         </div>
         <div class="col-lg-4">
-          <div class="card">
-            <div class="gambar">
-              <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+          <a href="">
+            <div class="card">
+              <div class="gambar">
+                <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+              </div>
+              <div class="card-body">
+                <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                <p class="date">Twins Robo / 3 Maret 2021</p>
+              </div>
             </div>
-            <div class="card-body">
-              <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-              <p class="date">Twins Robo / 3 Maret 2021</p>
+          </a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 ">
+          <a href="">
+            <div class="card">
+              <div class="gambar">
+                <img src="img/Dashboard.png" class="card-img-top" style="width: fit-content;" alt="" />
+              </div>
+              <div class="card-body">
+                <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                <p class="date">Twins Robo / 3 Maret 2021</p>
+              </div>
             </div>
-          </div>
+          </a>
+        </div>
+        <div class="col-lg-4 ">
+          <a href="">
+            <div class="card">
+              <div class="gambar">
+                <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+              </div>
+              <div class="card-body">
+                <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                <p class="date">Twins Robo / 3 Maret 2021</p>
+              </div>
+            </div>
+          </a>
         </div>
         <div class="col-lg-4">
-          <div class="card">
-            <div class="gambar">
-              <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+          <a href="">
+            <div class="card">
+              <div class="gambar">
+                <img src="img/dashboard.png" class="card-img-top" alt="" style="width: fit-content;" />
+              </div>
+              <div class="card-body">
+                <h2 class="title">Lorem ipsum dolor sit amet.</h2>
+                <p class="date">Twins Robo / 3 Maret 2021</p>
+              </div>
             </div>
-            <div class="card-body">
-              <h2 class="title">Lorem ipsum dolor sit amet.</h2>
-              <p class="date">Twins Robo / 3 Maret 2021</p>
-            </div>
-          </div>
+          </a>
         </div>
       </div>
 

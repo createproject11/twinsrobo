@@ -597,6 +597,11 @@ body {
   border: none;
   background: transparent;
 }
+#blog .blogAtas .card a,
+#blog .blogAtas a,
+#blog .blogBawah a {
+  text-decoration: none;
+}
 .gambar {
   border-radius: 21px;
   background-color: #f1f1f1;
