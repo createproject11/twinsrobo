@@ -32,11 +32,11 @@
 <!-- Awal Blog -->
 <div id="blog">
   <!--Awal Blog Bagian Atas -->
-  <div class="blogAtas" data-aos="fade-up">
+  <div class="blogAtas">
     <div class="container">
       <div class="row">
         <!-- Awal atasKiri -->
-        <div class="atasKiri col-lg-6">
+        <div class="atasKiri col-lg-6" data-aos="fade-up" data-aos-delay="300">
           <div class="card">
             <div class="gambar">
               <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 100%;" />
@@ -58,7 +58,7 @@
         <!-- Akhir atasKiri -->
 
         <!-- Awal atasKanan -->
-        <div class="atasKanan col-lg-6">
+        <div class="atasKanan col-lg-6" data-aos="fade-up" data-aos-delay="500">
           <div class="row">
             <div class="col-lg-6 col-md-6">
               <a href="">
