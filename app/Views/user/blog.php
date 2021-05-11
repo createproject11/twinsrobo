@@ -6,7 +6,7 @@
   <!-- Awal Container -->
   <div class="container">
     <div class="row">
-      <div class="col">
+      <div class="col" data-aos="fade-right">
         <h1>Ada Apa di Twins Robo</h1>
         <p>
           Cerita mitra,berita seru, dan promo terbaru. Baca semua artikel
@@ -32,7 +32,7 @@
 <!-- Awal Blog -->
 <div id="blog">
   <!--Awal Blog Bagian Atas -->
-  <div class="blogAtas">
+  <div class="blogAtas" data-aos="fade-up">
     <div class="container">
       <div class="row">
         <!-- Awal atasKiri -->
@@ -123,7 +123,7 @@
   <!--Akhir Blog Bagian Atas -->
 
   <!--Awal Blog Bagian Bawah -->
-  <div class="blogBawah">
+  <div class="blogBawah" data-aos="fade-up">
     <div class="container">
       <div class="row">
         <div class="col-lg-4 ">
@@ -288,7 +288,7 @@
   <div class="container">
     <h1>Artikel Berdasarkan Kategori</h1>
     <div class="kategori">
-      <div class="row">
+      <div class="row" data-aos="zoom-out-up">
         <div class="col-lg-2 col-md-4 col-sm-6">
           <a href="" class="h-100">
             <img src="img/kategori1.png" alt="" />
@@ -388,7 +388,7 @@
   <div class="container">
     <h1>Label</h1>
     <div class="row">
-      <div class="col-lg-12">
+      <div class="col-lg-12" data-aos="fade-down">
         <div class="linkLabel">
           <a href="">Rilis Berita</a>
           <a href="">Jelajah</a>
