@@ -19,6 +19,19 @@ nav.landpage {
   background: #0094ef !important;
 }
 
+nav.isi-pembelajaran2 {
+  background: #f2f2f2;
+}
+
+nav.isi-pembelajaran2 .nav-item,
+nav.isi-pembelajaran2 .btn-l a {
+  color: #545454;
+}
+
+nav.isi-pembelajaran2 .btn-l a:hover,
+nav.isi-pembelajaran2 .btn-l a.btn-login {
+  color: #fff;
+}
 nav.landpage.navbar-dark .navbar-nav .nav-link {
   color: #fff;
 }
@@ -223,6 +236,10 @@ nav .btn-l a.btn-login {
   margin-top: 60px;
 }
 
+.fitur-page .cont-fitur .img-fitur {
+  z-index: 2;
+}
+
 .fitur-page .cont-fitur .img-fitur img {
   width: 100%;
 }
@@ -231,6 +248,7 @@ nav .btn-l a.btn-login {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  overflow: hidden !important;
 }
 
 .fitur-page .isi-fitur h2 {
@@ -408,7 +426,7 @@ nav .btn-l a.btn-login {
 }
 /* --- End of Unduh CSS --- */
 
-#footer {
+#footer.landpage {
   padding-top: 40px;
 }
 
@@ -1071,7 +1089,7 @@ body {
 
 /* Awal CSS PriceList & Pricelist Subscription*/
 .pricelist-judul {
-  margin-top: 90px;
+  margin-top: 130px;
 }
 .pricelist-judul .title {
   font-weight: 800;
@@ -1139,6 +1157,10 @@ body {
 
 .pricelist-content .card .card-body .tombol2:hover:before {
   height: 100%;
+}
+
+.pricelist-content .card .cont-text {
+  margin-bottom: 50px;
 }
 
 /* Akhir CSS PriceList & Pricelist Subscription*/

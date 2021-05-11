@@ -47,6 +47,10 @@
     display: none !important;
   }
 
+  .top-page {
+    height: unset;
+  }
+
   .top-page .cont-judul {
     text-align: center;
     margin-bottom: 40px;
@@ -75,6 +79,14 @@
     font-size: 1.2rem;
   }
 
+  .top-page img {
+    width: 400px;
+  }
+
+  .top-page .center-img {
+    text-align: center;
+  }
+
   .grow-page {
     padding-bottom: 10px;
   }
@@ -89,6 +101,13 @@
 
   .grow-page .cont-konten .m-card {
     margin-bottom: 90px;
+  }
+  .grow-page .cont-konten .card {
+    padding-bottom: 30px;
+  }
+
+  .pricelist-content {
+    margin-bottom: 100px;
   }
 
   .pricelist-content .card .card-head .container {
@@ -111,7 +130,10 @@
 
   .pricelist-content .card .card-body {
     position: relative;
-    padding-bottom: 150px;
+  }
+
+  .pricelist-content .card .cont-text {
+    margin-bottom: 150px;
   }
 
   .pricelist-content .card .card-body .cont-btn {
@@ -213,7 +235,7 @@
   }
 
   .pricelist-judul {
-    margin-top: 30px;
+    margin-top: 120px;
   }
 
   /* CSS Gerald*/
@@ -307,6 +329,10 @@
     font-size: 1.7rem;
   }
 
+  .top-page img {
+    width: 300px;
+  }
+
   .fitur-page h2 {
     font-size: 1.7rem;
   }
@@ -330,6 +356,7 @@
 
   .grow-page .cont-konten .card a.gabung {
     width: 100%;
+    text-align: center;
   }
 
   .unduh {
@@ -458,6 +485,10 @@
   .grow-page .cont-judul h2,
   .unduh .cont-judul h2 {
     font-size: 2.1rem;
+  }
+
+  .top-page img {
+    width: 250px;
   }
 
   .isiPembelajaran2 .title {

@@ -1,4 +1,4 @@
-<footer id="footer">
+<footer id="footer" class="landpage">
     <!-- Awal Container -->
     <div class="container">
         <!-- Awal Logo -->

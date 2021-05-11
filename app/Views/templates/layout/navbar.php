@@ -1,4 +1,4 @@
-<nav id="menu-utama" class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+<nav id="menu-utama" class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <div class="container">
         <div class="brand">
             <img src="img/Logo Apps Twins Robo.png" alt="" />

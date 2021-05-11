@@ -18,19 +18,19 @@
         integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
     <!-- Bootstrap Icon -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
-    
+
     <!-- Hover.css -->
     <link rel="stylesheet" href="css/hover-min.css">
 
     <!-- Animate on Scroll CSS -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    
+
     <!-- My CSS -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="css/user/style_user.css">
     <link rel="stylesheet" href="css/user/responsive_user.css">
-    
+
     <title>Twins Robo Blog Page</title>
 </head>
 
@@ -66,7 +66,7 @@
 
     <!-- Animate on Scroll .js -->
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    
+
     <!-- Costum User Script.js -->
     <script type="text/javascript" src="/js/script_user.js"></script>
 

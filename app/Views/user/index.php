@@ -7,7 +7,7 @@
   background-repeat: no-repeat; background-size: cover;">
     <div class="container">
         <div class="row">
-            <div class="col-lg-5 side-judul aos-init aos-animate" data-aos="fade-up">
+            <div class="col-lg-5 side-judul" data-aos="fade-left">
                 <div class="cont-judul">
                     <h1 class="judul">
                         Belajar Robotika <br>
@@ -23,7 +23,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-lg-7">
+            <div class="col-lg-7 center-img">
                 <img src="/img/landingpage/top_page.png" alt="">
             </div>
         </div>
@@ -43,7 +43,7 @@
                 <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
                     <img src="/img/landingpage/program.png" alt="">
                 </div>
-                <div class="col-md-6 isi-fitur">
+                <div class="col-md-6 isi-fitur aos-init aos-animate" data-aos="fade-right" data-aos-delay="400">
                     <h2>Program Robot</h2>
                     <p>Di Aplikasi Twins Robo selain sebagai media pembelajaran robotik, di sini bisa mengcoding
                         atau menjalankan produk robot line maze dari twins robo secara wirelessly.</p>
@@ -53,12 +53,12 @@
 
             <!-- Check My Robot's -->
             <div class="row m-baris even">
-                <div class="col-md-6 isi-fitur">
+                <div class="col-md-6 isi-fitur aos-init aos-animate" data-aos="fade-left" data-aos-delay="400">
                     <h2>Check My Robot’s</h2>
                     <p>Di Aplikasi Twins Robo ada fitur untuk membantu trobelshoot robot ketika ada yang eror dari segi
                         calibrasi sensor dan lain-lain.</p>
                 </div>
-                <div class="col-md-6 img-fitur">
+                <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
                     <img src="/img/landingpage/checkmy.png" alt="">
                 </div>
             </div>
@@ -66,10 +66,10 @@
 
             <!-- Mini Games -->
             <div class="row m-baris">
-                <div class="col-md-6 img-fitur">
+                <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
                     <img src="/img/landingpage/mini1.png" alt="">
                 </div>
-                <div class="col-md-6 isi-fitur">
+                <div class="col-md-6 isi-fitur aos-init aos-animate" data-aos="fade-right" data-aos-delay="400">
                     <h2>Mini Games</h2>
                     <p>upload scoremu dan raih waktu terbaik bersama teman-teman kalian.
                         score tercepat akan menjadi top score dan akan tersebar oleh seluruh
@@ -80,13 +80,13 @@
 
             <!-- Learn Robot -->
             <div class="row m-baris even">
-                <div class="col-md-6 isi-fitur">
+                <div class="col-md-6 isi-fitur aos-init aos-animate" data-aos="fade-left" data-aos-delay="400">
                     <h2>Learn Robot</h2>
                     <p>Di Aplikasi Twins Robo dilengkapi dengan materi-materi seputar robotika secara lengkap,
                         up-to-date, dan di ajarkan oleh pelatih-pelatih robot maupun programmer yang berpengalaman di
                         bidangnya.</p>
                 </div>
-                <div class="col-md-6 img-fitur">
+                <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
                     <img src="/img/landingpage/learn.png" alt="">
                 </div>
             </div>
@@ -94,10 +94,10 @@
 
             <!-- Mini Games 2 -->
             <div class="row m-baris">
-                <div class="col-md-6 img-fitur">
+                <div class="col-md-6 img-fitur aos-init aos-animate" data-aos="fade-up">
                     <img src="/img/landingpage/mini2.png" alt="">
                 </div>
-                <div class="col-md-6 isi-fitur">
+                <div class="col-md-6 isi-fitur aos-init aos-animate" data-aos="fade-right" data-aos-delay="400">
                     <h2>Mini Games</h2>
                     <p>upload scoremu dan raih waktu terbaik bersama teman-teman kalian.
                         score tercepat akan menjadi top score dan akan tersebar oleh seluruh
@@ -133,7 +133,7 @@
         <div class="cont-konten">
             <div class="row">
                 <!-- Fun dan Mudah Digunakan -->
-                <div class="col-lg-4 text-center">
+                <div class="col-lg-4 text-center aos-init aos-animate" data-aos="zoom-in-up">
                     <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_vo0a1yca.json"
                         background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay>
                     </lottie-player>
@@ -144,7 +144,7 @@
                 <!-- End of Fun dan Mudah Digunakan -->
 
                 <!-- Aplikasi Buatan Anak Indonesia -->
-                <div class="col-lg-4 text-center">
+                <div class="col-lg-4 text-center aos-init aos-animate" data-aos="zoom-in-up" data-aos-delay="300">
                     <lottie-player src="https://assets6.lottiefiles.com/packages/lf20_NmBGIS.json"
                         background="transparent" speed="1" style="width: 250px; height: 300px;" loop autoplay>
                     </lottie-player>
@@ -155,7 +155,7 @@
                 <!-- End of Aplikasi Buatan Anak indonesia -->
 
                 <!-- Diajarkan Bersama Mentor -->
-                <div class="col-lg-4 text-center">
+                <div class="col-lg-4 text-center aos-init aos-animate" data-aos="zoom-in-up" data-aos-delay="600">
                     <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_Fy9W8c.json"
                         background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay>
                     </lottie-player>
@@ -174,7 +174,7 @@
 <section class="grow-page" style="background: url('/img/landingpage/bg_grow.png'); background-position: center;
   background-repeat: no-repeat; background-size: cover;">
     <div class="container">
-        <div class="cont-judul">
+        <div class="cont-judul aos-init aos-animate" data-aos="fade-right">
             <h2>
                 Bertumbuh besar <br>
                 bersama Twins Robo
@@ -183,7 +183,8 @@
 
         <div class="cont-konten">
             <div class="row">
-                <div class="col-lg-4 m-card">
+                <!-- Jadi mentor -->
+                <div class="col-lg-4 m-card aos-init aos-animate" data-aos="flip-left">
                     <div class="card h-100">
                         <div class="card-body">
                             <div class="icon id-card">
@@ -200,8 +201,10 @@
                         </div>
                     </div>
                 </div>
+                <!-- End of Jadi mentor -->
 
-                <div class="col-lg-4 m-card">
+                <!-- Jadi Teknisi -->
+                <div class="col-lg-4 m-card aos-init aos-animate" data-aos="flip-left" data-aos-delay="300">
                     <div class="card h-100">
                         <div class="card-body">
                             <div class="icon teknisi">
@@ -218,8 +221,10 @@
                         </div>
                     </div>
                 </div>
+                <!-- End of Jadi Teknisi -->
 
-                <div class="col-lg-4 m-card">
+                <!-- Jadi Engineer -->
+                <div class="col-lg-4 m-card aos-init aos-animate" data-aos="flip-left" data-aos-delay="600">
                     <div class="card h-100">
                         <div class="card-body">
                             <div class="icon gabung">
@@ -236,6 +241,7 @@
                         </div>
                     </div>
                 </div>
+                <!-- End of Jadi Engineer -->
             </div>
         </div>
     </div>
@@ -247,7 +253,7 @@
   background-repeat: no-repeat; background-size: cover;">
     <div class="container">
         <div class="row">
-            <div class="col-md-7">
+            <div class="col-md-7 aos-init aos-animate" data-aos="fade-up">
                 <div class="cont-judul">
                     <h2>Belum punya aplikasi Twins Robo ? <br> Yuk, unduh sekarang juga.</h2>
                 </div>

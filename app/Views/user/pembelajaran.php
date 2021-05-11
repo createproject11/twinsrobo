@@ -5,7 +5,7 @@
 <div class="jumbotron jumbotron-fluid" style="position: relative;">
     <div class="container">
         <div class="row d-flex justify-content-center align-items-center">
-            <div class="col-lg-7 d-flex flex-column">
+            <div class="col-lg-7 d-flex flex-column" data-aos="fade-up">
                 <h1 class="display-4">Kuy Kita Belajar Bersama Twins Robo!</h1>
                 <p class="lead">Bersenang-senang dan belajar aplikasi robot secara lengkap di Twins Robo</p>
 
@@ -45,10 +45,10 @@
     <div class="container">
         <!--Awal Blog Bagian Atas -->
         <div class="blogAtas">
-            <h2 class="title mb-5">Top 5 Course</h2>
+            <h2 class="title mb-5 aos-init aos-animate" data-aos="fade-right">Top 5 Course</h2>
             <div class="row">
                 <!-- Awal atasKiri -->
-                <div class="atasKiri col-lg-6">
+                <div class="atasKiri col-lg-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
                     <div class="card">
                         <div class="gambar">
                             <img src="img/dashboard.png" class="card-img-top" alt="" style="width: 100%;" />
@@ -94,7 +94,7 @@
                 <!-- Akhir atasKiri -->
 
                 <!-- Awal atasKanan -->
-                <div class="atasKanan col-lg-6">
+                <div class="atasKanan col-lg-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
                     <div class="row">
                         <div class="col-lg-6 col-md-6 m-pembelajaran">
                             <a href="#">
@@ -174,9 +174,6 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
-
-                    <div class="row">
                         <div class="col-lg-6 col-md-6 m-pembelajaran">
                             <a href="#">
                                 <div class="card h-100">
@@ -256,7 +253,6 @@
                             </a>
                         </div>
                     </div>
-
                 </div>
                 <!-- Akhir atasKanan -->
             </div>
@@ -270,8 +266,8 @@
 <div id="kategoriPembelajaran">
     <!-- Awal Container -->
     <div class="container">
-        <h1>Kategori Pembelajaran Twins Robo</h1>
-        <div class="kategori">
+        <h1 class="aos-init aos-animate" data-aos="fade-right">Kategori Pembelajaran Twins Robo</h1>
+        <div class="kategori aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <a href="" class="h-100">
