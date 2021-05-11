@@ -67,9 +67,9 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <!-- Costum User Script.js -->
-    <script type="text/javascript" src="/js/script_user.js"></script>
+    <script type="text/javascript" src="js/script_user.js"></script>
 
-    <script src="/js/script.js"></script>
+    <script src="js/script.js"></script>
 
 
     <!-- Option 2: Separate Popper and Bootstrap JS -->
