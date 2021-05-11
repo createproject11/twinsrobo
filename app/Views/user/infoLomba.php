@@ -5,7 +5,7 @@
 <div class="jumbotron jumbotron-fluid" style="position: relative;">
     <div class="container">
         <div class="row d-flex justify-content-center align-items-center">
-            <div class="col-lg-7 d-flex flex-column">
+            <div class="col-lg-7 d-flex flex-column" data-aos="fade-up">
                 <h1 class="display-4">PEMROGRAMMAN ROBOT</h1>
                 <p class="lead">Bersenang-senang Belajar Pemrogramman Robot Bersama Twins Robo.</p>
 
@@ -42,7 +42,7 @@
 <div class="materiPembelajaran">
     <div class="container">
         <div class="text-center mt-4">
-            <h1 class="title">Materi Pembelajaran</h1>
+            <h1 class="title" data-aos="fade-up">Materi Pembelajaran</h1>
         </div>
     </div>
 </div>
@@ -55,7 +55,7 @@
             <div class="tab-pane fade show active" id="pills-featured" role="tabpanel" aria-labelledby="pills-featured-tab">
 
                 <!--Awal Blog Bagian Bawah -->
-                <div class="blogBawah">
+                <div class="blogBawah aos-init aos-animate" data-aos="fade-up">
                     <div class="row">
                         <div class="col-lg-4 m-pembelajaran">
                             <a href="#">
