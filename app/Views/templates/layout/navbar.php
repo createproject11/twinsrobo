@@ -2,7 +2,7 @@
     <div class="container">
         <div class="brand">
             <img src="img/Logo Apps Twins Robo.png" alt="" />
-            <a class="navbar-brand" href="#">Twins Robo App</a>
+            <a class="navbar-brand text" href="#">Twins Robo App</a>
         </div>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"

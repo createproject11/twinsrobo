@@ -2,7 +2,7 @@
     <!-- Awal Container -->
     <div class="container">
         <!-- Awal Logo -->
-        <div class="footBrand">
+        <div class="footBrand aos-init aos-animate" data-aos="fade-up">
             <img src="img/Logo Twins Robo Transparant.png" alt="">
             <h1>Twins Robo</h1>
         </div>
@@ -10,7 +10,7 @@
 
         <!-- Awal Row -->
         <div class="row">
-            <div class="col-md-2 ft-menu">
+            <div class="col-md-2 ft-menu aos-init aos-animate" data-aos="fade-right">
                 <h6>Perusahaan</h6>
 
                 <ul class="list-unstyled">
@@ -20,7 +20,7 @@
                 </ul>
             </div>
 
-            <div class="col-md-2 ft-menu">
+            <div class="col-md-2 ft-menu aos-init aos-animate" data-aos="fade-right" data-aos-delay="200">
                 <h6>Gabung</h6>
 
                 <ul class="list-unstyled">
@@ -30,7 +30,7 @@
                 </ul>
             </div>
 
-            <div class="col-md-2 ft-menu">
+            <div class="col-md-2 ft-menu aos-init aos-animate" data-aos="fade-right" data-aos-delay="400">
                 <h6>Karir</h6>
 
                 <ul class="list-unstyled">
@@ -39,7 +39,7 @@
                 </ul>
             </div>
 
-            <div class="col-md-3 ft-menu">
+            <div class="col-md-3 ft-menu aos-init aos-animate" data-aos="fade-right" data-aos-delay="600">
                 <h6>Hubungi Kami</h6>
 
                 <ul class="list-unstyled">
@@ -48,7 +48,7 @@
                 </ul>
             </div>
 
-            <div class="col-md-3 ft-menu">
+            <div class="col-md-3 ft-menu aos-init aos-animate" data-aos="fade-right" data-aos-delay="800">
                 <h6>Cari tau berita terbaru</h6>
 
                 <ul class="list-unstyled d-flex" style="gap: 20px; font-size: 30px;">
@@ -74,13 +74,16 @@
 
             <div class="col-lg-9 mt-3">
                 <ul class="list-unstyled d-flex foot-ul" style="gap: 20px;">
-                    <li><a href="">Kebijakan Privasi</a></li>
-                    <li><a href="">Syarat dan Ketentuan</a></li>
-                    <li><a href="">Atribusi Data</a></li>
+                    <li class="aos-init aos-animate" data-aos="fade-right"><a href="">Kebijakan Privasi</a></li>
+                    <li class="aos-init aos-animate" data-aos="fade-right" data-aos-delay="200"><a href="">Syarat dan
+                            Ketentuan</a></li>
+                    <li class="aos-init aos-animate" data-aos="fade-right" data-aos-delay="400"><a href="">Atribusi
+                            Data</a></li>
                 </ul>
             </div>
 
-            <div class="col-lg-3 d-flex align-items-center" style="font-size: 20px;">
+            <div class="col-lg-3 d-flex align-items-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="200"
+                style="font-size: 20px;">
                 <i class="fas fa-language"></i>
                 <div class="dropdown ml-auto">
                     <a class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
